@@ -1,0 +1,97 @@
+[
+  {
+    "clause_id": "PERSONAL DATA SUB -PROCESSOR AGREEMENT",
+    "heading": "PERSONAL DATA SUB -PROCESSOR AGREEMENT",
+    "summarised_text": "This Agreement, including attachments, is between the Client (\"the Data Processor\") and Greater Than AB or its Affiliates (\"the Sub-Processor\"), jointly \"the Parties\", for personal data sub-processing. In case of content conflict, the main document prevails over attachments: 1. Sub-Processors of Greater Than AB and/or its Affiliates, 2. Data Processor’s instructions. Definitions align with GDPR; key terms include Affiliate, Applicable regulations, Data Controller, Data Processor, Personal data, Personal data breach, Processing, Sub-Processor, and Third Country."
+  },
+  {
+    "clause_id": "1",
+    "heading": "The purpose and background",
+    "summarised_text": "The Agreement ensures Sub-Processor's Personal data Processing complies with existing legislation, Applicable regulations, and this Agreement (1.1). The Data Processor is authorized by the Data Controller to engage the Sub-Processor (1.2). The Sub-Processor may use anonymized or aggregated data for its business purposes without violating GDPR or data subjects' rights (1.3). Upon signing, the Sub-Processor undertakes Personal data Processing for the Data Processor, with details in Section 2.1.2 (1.4)."
+  },
+  {
+    "clause_id": "2",
+    "heading": "The Data Processor’s obligations",
+    "summarised_text": "The Data Processor must ensure all Personal data Processing aligns with the Data Processor Agreement with the Data Controller, providing necessary data to the Sub-Processor (2.1.1). The Data Processor is responsible for providing documented, GDPR-consistent instructions to the Sub-Processor, detailing processing scope, data categories, and protection levels, ensuring no conflict with the Data Processing Agreement (2.1.2). The Data Processor must provide required information and Personal data to the Sub-Processor (2.1.3), and immediately update instructions if the Data Controller issues new ones or if existing information is incorrect (2.1.4)."
+  },
+  {
+    "clause_id": "3",
+    "heading": "The Sub-Processor’s areas of responsibility",
+    "summarised_text": "The Sub-Processor shall process Personal data only as per the Agreement, GDPR, and other data protection laws, not for other purposes without Data Processor's consent, supervisory order, or mandatory legislation, and may seek compensation for costs due to Data Processor's instructions (3.1.1). The Sub-Processor may not transfer Personal data outside the EU/EEA, including for related services, without Data Processor's written consent and assurance of compliance with Applicable regulations (3.1.2). The Sub-Processor must perform modifications, deletions, limitations, and transfers as explicitly requested by the Data Processor, unless such requests conflict with the Agreement or Applicable regulations (3.1.3)."
+  },
+  {
+    "clause_id": "3.2",
+    "heading": "Technical and organizational measures",
+    "summarised_text": "The Sub-Processor shall implement suitable technical and organizational measures, considering development costs, processing nature, scope, context, purpose, and risks to individuals' rights and freedoms. This includes pseudonymization, encryption, ensuring confidentiality, privacy, accessibility, and resilience, reinstating access post-breach, and regular testing of security measures (3.2.1)."
+  },
+  {
+    "clause_id": "3.3",
+    "heading": "Record of processing activities",
+    "summarised_text": "The Sub-Processor must maintain a written (including electronic) record of all processing activities carried out on behalf of the Data Processor, as per GDPR Article 30. This record must include contact details for the Sub-Processor, Data Processor's representative, and DPO; categories of processing; details of transfers to Third Countries including safeguards; and a general description of technical and organizational security measures (3.3.1, 3.3.2)."
+  },
+  {
+    "clause_id": "3.4",
+    "heading": "Duty to notify",
+    "summarised_text": "The Sub-Processor must notify the Data Processor without unnecessary delay if data processing contravenes the Agreement and await instructions."
+  },
+  {
+    "clause_id": "3.5",
+    "heading": "Information",
+    "summarised_text": "The Sub-Processor may not disclose Personal data or processing information without the Data Processor's prior consent, unless mandated by a supervisory authority or law (3.5.1). The Sub-Processor must notify the Data Processor if contacted by a supervisory authority, data subject, or third party regarding the Personal data it processes (3.5.2)."
+  },
+  {
+    "clause_id": "3.6",
+    "heading": "Audit",
+    "summarised_text": "The Data Processor is entitled to an annual audit, at its cost, to verify Sub-Processor's compliance with the Agreement and Applicable regulations. Audits require mutual agreement, reasonable notice (at least 30 days written notice), occur during normal working hours (9-5 pm CET), not July-August, and the Sub-Processor must provide reasonable assistance (3.6.1). The Sub-Processor must grant Data Processor access to premises and equipment for inspection, unless it poses security/privacy risks to data subjects/other customers (3.6.2). The Sub-Processor reserves the right to take protective measures for Personal data in cases of suspected misuse by the Data Processor, in accordance with GDPR (3.6.3)."
+  },
+  {
+    "clause_id": "3.7",
+    "heading": "Security and confidentiality",
+    "summarised_text": "The Sub-Processor shall assess processing risks, implement encryption and other measures to ensure appropriate security, confidentiality, and account for development costs and data types (3.7.1). The Sub-Processor must ensure all personnel accessing Personal data under its supervision process it only on the Data Processor's instructions (3.7.2). The Sub-Processor is responsible for ensuring all individuals with Personal data access have sufficient knowledge and training for secure processing (3.7.3). The Sub-Processor must inform the Data Processor beforehand of any changes to Personal data processing or other changes affecting data subjects' security/rights or Agreement compliance (3.7.4). The Sub-Processor commits to processing Personal data and related information confidentially, with staff informed of and bound by confidentiality duties (3.7.5). The Sub-Processor must ensure all employees, consultants, and others processing Personal data are bound by appropriate confidentiality undertakings and are informed of processing procedures (3.7.6). The Sub-Processor is responsible for informing persons with access to Personal data on processing according to the Agreement and ensuring adequate authorization control (3.7.7)."
+  },
+  {
+    "clause_id": "3.8",
+    "heading": "Personal data breaches",
+    "summarised_text": "In case of a suspected or discovered Personal data breach, the Sub-Processor must investigate and take suitable measures to mitigate negative effects (3.8.1). Upon request, the Sub-Processor shall provide the Data Processor with a description of the breach within 55 hours, including type, approximate numbers of data subjects and items, contact details, likely consequences, and remedial measures (3.8.2). The Sub-Processor shall assist the Data Processor in fulfilling its obligations regarding Personal data breaches, considering the processing type and available information (3.8.3). The Sub-Processor must notify the Data Processor of a Personal data breach without unnecessary delay, at the latest within 48 hours of awareness (3.8.4). This notification must contain all information the Data Processor needs to fulfill its obligations to the supervisory authority and Data Controller (3.8.5)."
+  },
+  {
+    "clause_id": "3.9",
+    "heading": "Assisting the Data Processor",
+    "summarised_text": "The Sub-Processor shall, if necessary and upon request, assist the Data Processor with data protection impact assessments and prior consultation with the supervisory authority, as per GDPR provisions (3.9.1)."
+  },
+  {
+    "clause_id": "4",
+    "heading": "The Sub-Processor’s hiring of another sub-processor",
+    "summarised_text": "Personal data may be processed by sub-processors listed in Attachment 1, to which the Data Processor consents by this Agreement. The Sub-Processor must inform the Data Processor of new or replacement sub-processors. The Data Processor can object within 7 days, unless changes are necessary for compliance or service quality, in which case the Sub-Processor must not proceed. Absence of objection within 7 days implies acceptance (4.1). The Sub-Processor is responsible for ensuring its sub-processors comply with GDPR Article 28(2) and (4) and provide sufficient guarantees for technical and organizational measures to meet Applicable regulations (4.2)."
+  },
+  {
+    "clause_id": "5",
+    "heading": "Liability for damage",
+    "summarised_text": "The Data Processor shall compensate the Sub-Processor for claims based on the Data Processor’s instructions as per Attachment 2 (5.1). The Sub-Processor’s liability is limited to its own acts and omissions and excludes any instructions or actions by the Data Processor leading to a GDPR breach (5.2)."
+  },
+  {
+    "clause_id": "6",
+    "heading": "The duration of the agreement and amendments to the agreement",
+    "summarised_text": "The Agreement is valid from the signing date as long as the Sub-Processor processes Personal data according to the Data Processor's instructions (Attachment 2) and this Agreement (6.1). The Sub-Processor can request amendments for GDPR compliance, subject to mutual agreement (6.2). Upon completion of processing, the Sub-Processor must delete or anonymize Personal data, unless legal storage is permitted/required, or return it without undue delay in a common, legible electronic format (6.3). Any extension of the Sub-Processor's processing to new types requires explicit written consent from the Sub-Processor (6.4)."
+  },
+  {
+    "clause_id": "7",
+    "heading": "Notifications",
+    "summarised_text": "All notifications and messages under the Agreement must be in writing to the contact persons in the service agreement. For the Sub-Processor, this is Greater Than AB, Karlavägen 60, 114 49 Stockholm, Sweden, Liselott Johansson, liselott.johansson@greaterthan.eu (7.1). The Sub-Processor will be given a reasonable timeframe to respond to and address any processing or incidents, allowing for remedial measures. Personal data breaches must be notified via email to liselott.johansson@greaterthan.eu and helena.norrthon@greaterthan.eu (7.2)."
+  },
+  {
+    "clause_id": "8",
+    "heading": "Disputes",
+    "summarised_text": "The Agreement is interpreted and applied under Swedish law. Disputes will be settled in a Swedish ordinary court, unless another jurisdiction has exclusive authority. Before court action, Parties agree to mediation or alternative dispute resolution (8.1)."
+  },
+  {
+    "clause_id": "Attachment 1",
+    "heading": "Subprocessors of the Sub-Processor",
+    "summarised_text": "This attachment lists sub-processors utilized by Greater Than AB for Enerfy API calls and the Enerfy Global platform. For Enerfy API calls, Microsoft Azure (for data handling, analysis of DriverID/VehicleID, GPS data) and Google Cloud EMEA Limited (for time zone, analysis, addresses for DriverID/VehicleID, GPS data) are used. For the Enerfy Global platform, in addition to Microsoft Azure and Google Cloud EMEA Limited for similar purposes, Google Analytics (for customer journey/UX/UI improvement, IP address), Google Font API (for fonts/icons, IP address), Fonticons, Inc. (Font Awesome) (for fonts/icons, IP address), Stripe (for subscription/payment, name, address, email, phone, credit cards), Youtube (for playing videos, IP address), Twillio (for sending text messages, phone number), and SendGrid (for sending emails, email) are used. Each entry includes address, contact details, purpose, personal information processed, and privacy policy links."
+  },
+  {
+    "clause_id": "Attachment 2",
+    "heading": "Data Processor’s instructions",
+    "summarised_text": "This instruction details the Processing of Personal data by the Sub-Processor for the Data Processor, emphasizing compliance with GDPR and the Data Processor's written instruction (1. Purpose and background). Personal data processing purposes must be specific, explicit, and legitimate, compatible with the service agreement between the Data Processor and Sub-Processor (2. Purpose and legal basis). The Sub-Processor may only process necessary Personal data of data subjects and contact persons to fulfill its obligations under the Service Agreement (3. Personal data that may be processed). The Sub-Processor must ensure confidentiality, process data to fulfill Data Processor's duties to data subjects, and only as specified (e.g., to support Data Processor activities, for internal/administrative management, and lawfully), unless otherwise instructed (4. Lawful processing of personal data). Processed Personal data may only be disclosed to authorized Data Processor staff, concerned data subjects, consented subcontractors, and other companies within the Sub-Processor’s group for Service Agreement fulfillment (5. Recipients to whom personal data may be submitted). Provision of Personal data to Third Countries is permitted only as per GDPR, Applicable regulations, and the Personal Data Sub Processor Agreement (6. Provision of personal data to third countries). Personal data must not be stored longer than necessary for processing purposes and must be erased or anonymized thereafter in accordance with GDPR (7. Disposal of personal data). The Sub-Processor undertakes to implement appropriate technical, physical, administrative, and organizational safeguards, considering data sensitivity, specific risks (e.g., accidental destruction, unauthorized access), existing technical possibilities, and implementation costs (8. Safeguards)."
+  }
+]

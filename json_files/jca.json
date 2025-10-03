@@ -1,0 +1,82 @@
+[
+  {
+    "clause_id": "1",
+    "heading": "Preface",
+    "summarised_text": "This Model Joint Controllership Agreement serves as a model for parties in a collaborative partnership acting as joint controllers under GDPR. It assumes four participating parties, but can be adapted for more or fewer, and is based on parties having a main agreement, with this model adding commitments for personal data processing."
+  },
+  {
+    "clause_id": "2",
+    "heading": "JOINT CONTROLLER SHIP AGREEMENT",
+    "summarised_text": "This Joint Controllership Agreement, dated [X], is between multiple parties ([Bedrijf X], [Bedrijf X], [Bedrijf X], [Bedrijf X]), collectively \"Parties\" and individually \"Party\". The Parties wish to collaborate on a project detailed in Schedule 1, have a Main Agreement, will process and exchange Personal Data, jointly determine processing purposes and resources as Joint Controllers under Article 26 GDPR, and enter into commitments for careful Personal Data Processing and mutual responsibilities."
+  },
+  {
+    "clause_id": "Clause 1.",
+    "heading": "Definitions",
+    "summarised_text": "This clause defines capitalized words used in the Agreement. Words capitalized in the General Data Protection Regulation (GDPR) have their ascribed meanings, while other capitalized words are defined within this clause. Singular references include plural where applicable, and vice versa, unless explicitly stated or contextually obvious. Definitions include: \"Agreement\" (the present Agreement, including Schedules, within the meaning of Article 26 GDPR), \"Collaborative Partnership\" (between Parties based on the Main Agreement, as outlined in Schedule 1, involving Personal Data exchange), \"Employee\" (employees and other contracted persons under a Party’s responsibility for Agreement performance), \"GDPR\" (Regulation (EU) 2016/679), \"In writing\" (on paper or electronically, per Article 6:227a of the Dutch Civil Code), \"Main Agreement\" (the main agreement for the Collaborative Partnership, establishing Joint Controllership), \"Schedule\" (an integral appendix), and \"Special categories of Personal Data\" (data revealing racial/ethnic origin, political opinions, religious/philosophical beliefs, trade union membership, genetic data, biometric data for unique identification, health data, sex life/sexual orientation data under Article 9 GDPR, and criminal convictions/offences under Article 10 GDPR, plus national identification numbers)."
+  },
+  {
+    "clause_id": "Clause 2.",
+    "heading": "Subject of the Agreement",
+    "summarised_text": "This Agreement supplements the Main Agreement, superseding prior personal data processing agreements, with its provisions prevailing in case of conflict. It's a Joint Controllership Agreement defining Parties' responsibilities for Personal Data Processing as per Schedule 3, making them Joint Controllers for those operations. Its provisions apply to all data processing for the Collaborative Partnership detailed in the Main Agreement. Parties must immediately notify each other if unable to meet obligations."
+  },
+  {
+    "clause_id": "Clause 3.",
+    "heading": "The Parties’ obligations",
+    "summarised_text": "The Parties commit to processing Personal Data properly, carefully, and transparently according to Schedule 3 and applicable laws, especially GDPR and the Dutch Telecommunications Act. They will process data only for the collected purpose, unless mutually agreed in writing for closely related purposes. Only strictly necessary Personal Data will be collected. For high-risk processing, a Data Protection Impact Assessment (DPIA) will be performed and incorporated into a Schedule. Each Party is responsible for recording data processing activities in a register. These obligations extend to those processing data under the Parties' authority (Employees, Data Processors). Parties must clearly communicate to Data Subjects where to exercise their rights, as per Schedule 2. Schedule 1 will detail the Collaborative Partnership, including its purpose, nature, applications, and suppliers. Schedule 2 will specify mutual responsibilities, including who concludes Data Processing Agreements, implements technical/organizational measures, and enables Data Subjects' rights. Appendix 3 will detail the Data Processing Operations' nature, purposes, types of Data Subjects, Personal Data, retention periods, Employee access, Data Processors, cross-EEA data transmission, and Data Breach contact details. Schedule 4 will specify implemented technical and organizational security measures."
+  },
+  {
+    "clause_id": "Clause 4.",
+    "heading": "Access to Personal Data",
+    "summarised_text": "Parties must minimize access to Personal Data for Employees, Data Processors, Third Parties, and other Recipients based on necessity. Schedule 3 identifies categories of Employees needing access for Collaborative Partnership duties. Parties cannot engage other persons or organizations for data processing without prior written permission. If outsourcing processing to a Data Processor per Clause 4.3, the Party must ensure proper and careful processing compliant with regulations, documenting this in a Data Processing Agreement under Article 28 GDPR (using SURF’s Model Processor Agreement if possible). Engaged Data Processors are named in Schedule 3. All Parties can inspect Data Processing Agreements. Parties may process data outside the EEA per Clauses 4.3 to 4.5, provided recipients comply with data processing laws, with outsourcing methods detailed in Schedule 3."
+  },
+  {
+    "clause_id": "Clause 5.",
+    "heading": "Non-disclosure and confidentiality",
+    "summarised_text": "All Personal Data are confidential information and must be treated as such. This confidentiality obligation extends to all natural and legal persons engaged by the Parties for processing Personal Data, including Employees, Data Processors, Third Parties, and other Recipients. Parties must keep all Personal Data secret and not disclose them internally or externally, except when: (i) disclosure is necessary for performing the Main Agreement or this Agreement; (ii) disclosure is legally mandated or ordered by a competent court or government agency (with prior notification to other Parties); or (iii) disclosure is made with prior written consent from the other Parties."
+  },
+  {
+    "clause_id": "Clause 6.",
+    "heading": "Liability",
+    "summarised_text": "Parties are liable to each other only for demonstrable breaches of this Agreement, limited to direct damages reimbursed by the insurance company, up to a maximum of EUR [X] per annum (for individual events, or a series of interrelated events as one). If insurance does not pay out, liability is capped at EUR [X] per event or series of events. These limitations lapse if damage results from intentional act or willful misconduct by the Party/managers causing damage. A Party breaching obligations, leading to third-party liability for other Parties, must indemnify and reimburse those Parties, unless the damage was due to the other Parties' intentional act or gross negligence."
+  },
+  {
+    "clause_id": "Clause 7.",
+    "heading": "Data Breach",
+    "summarised_text": "In a Data Breach, the Party where it occurred must notify other Parties without delay, providing information from the Dutch Data Protection Authority's latest data breach form. Upon notification, Parties will consult on consequences. Parties will update each other on breach developments. Each Party is separately responsible for reporting breaches under its responsibility to the Supervisory Authority and/or Data Subjects. Costs for resolving and preventing recurrence of a breach are borne by the Party where it occurred, though cost-sharing may be considered if beneficial to all. Each Party must separately record Data Breaches in a register."
+  },
+  {
+    "clause_id": "Clause 8.",
+    "heading": "Term and termination",
+    "summarised_text": "This Agreement takes effect upon signing and shares the same term as the Main Agreement. It cannot be terminated independently; termination of the Main Agreement automatically voids this Agreement, and vice versa. Amendments require consultation and agreement from all Parties. Parties will amend the Agreement to reflect changes in applicable laws and regulations. Upon expiry of the Agreement's term and/or statutory retention periods, Parties will jointly ensure Personal Data destruction. Obligations that, by their nature, must continue after termination, will remain in effect."
+  },
+  {
+    "clause_id": "Clause 9.",
+    "heading": "Other provisions",
+    "summarised_text": "This Agreement and its performance are governed by Dutch law. Disputes will be brought before the competent court specified in the Main Contract. If any provision is legally invalid, the remaining provisions' validity is unaffected, and Parties will consult to amend the invalid provision to a legally valid one, adhering to its original letter and spirit."
+  },
+  {
+    "clause_id": "LIST OF SCHEDULES",
+    "heading": "LIST OF SCHEDULES",
+    "summarised_text": "This document includes the following schedules: Schedule 1: Specification of the Collaborative Partnership between the Parties; Schedule 2: Specification of the Parties’ responsibilities vis-à-vis each other and the division of tasks; Schedule 3: Specification of the Data Processing Operation(s) to be performed; and Schedule 4: Specification of the technical and organisational security measures implemented by the Parties."
+  },
+  {
+    "clause_id": "SCHEDULE 1:",
+    "heading": "THE COLLABORATIVE PARTNERSHIP BETWEEN THE PARTIES",
+    "summarised_text": "Schedule 1 describes the nature of the collaborative partnership necessitating this Joint Controllership Agreement. It must include: a description of the partnership's nature and purpose (e.g., project, joint application use); the collaboration's commencement date; the applications used in the partnership (if any); and the suppliers of these applications. A table is provided for 'Application(s)' with fields for 'Application name' and 'Application supplier'."
+  },
+  {
+    "clause_id": "SCHEDULE 2:",
+    "heading": "THE PARTIES’ RESPONSIBILITIES VIS-À-VIS EACH OTHER AND THE DIVISION OF TASKS",
+    "summarised_text": "Schedule 2 details the division of tasks and responsibilities among the Parties, as required by Article 26 GDPR for joint controllers. It emphasizes defining responsibilities in detail, covering at least: A) Data Processing Agreements (which Party/Parties are responsible for concluding agreements with Data Processors as per Schedule 1, Article 28 GDPR); B) Technical and organisational security measures (which Party/Parties are responsible for implementing appropriate measures, Article 32 GDPR); and C) Rights of Data Subjects (which Party/Parties will ensure Data Subjects can exercise their rights, Articles 12-23 GDPR, specifying who is responsible for which rights and ensuring clarity for Data Subjects)."
+  },
+  {
+    "clause_id": "SCHEDULE 3:",
+    "heading": "SPECIFICATION OF THE DATA PROCESSING OPERATION(S)",
+    "summarised_text": "Schedule 3 specifies the Data Processing Operation(s), including a description of its nature, purposes, categories of Data Subjects, types of Personal Data, and retention periods (or criteria for establishing them). It also outlines categories of Employees from each Party (function roles/groups) who perform Data Processing Operations, the Personal Data they process, and the type of Data Processing Operation. The schedule lists authorized Data Processors engaged by each Party, their country and location of data processing, which Party engaged them, status of Data Processing Agreements, and authorization by other Parties. It also details authorized data transmission to third countries or international organizations, including a description of data, transmitting/receiving entities and countries, and mechanism of transmission. Finally, it provides contact details (Name, Job title, E-mail address, Phone number) for each Party in the event of a Data Breach."
+  },
+  {
+    "clause_id": "SCHEDULE 4:",
+    "heading": "SPECIFICATION OF TECHNICAL AND ORGANISATIONAL SECURITY MEASURES IMPLEMENTED",
+    "summarised_text": "Schedule 4 details the technical and organisational security measures implemented by the Parties. It includes two sections: 1. Technical security measures, where each Party lists their implemented technical security measures. 2. Organisational security measures (roles and rights model), where each Party lists their implemented organisational security measures."
+  }
+]

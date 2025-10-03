@@ -1,0 +1,192 @@
+[
+  {
+    "clause_id": "1.",
+    "heading": "Definitions",
+    "summarised_text": "This Data Privacy Addendum defines terms used in the Agreement. If a term is defined both in this Addendum and elsewhere in the Agreement, the Addendum's definition prevails for its purposes. References to Applicable Privacy Laws and defined terms therein will be updated to incorporate any replacing, amending, extending, re-enacting, or consolidating laws and their equivalent terms once in force and applicable."
+  },
+  {
+    "clause_id": "1.1",
+    "heading": "Applicable Privacy Laws",
+    "summarised_text": "\"Applicable Privacy Laws\" means all applicable data protection and privacy laws relevant to the Processing of Client Personal Data, including, where applicable, (a) the GDPR; (b) the UK Data Protection Act 2018; (c) the Privacy and Electronic Communications Directive 2002/58/EC; (d) the Privacy and Electronic Communications Regulations 2003 (SI 2003/2426); (e) U.S. state and federal data protection laws, including the California Consumer Protection Act of 2018 (\"CCPA\"); (f) the Personal Information Protection and Electronic Documents Act (\"PIPEDA\") and Canadian Anti-Spam Law (\"CASL\"); and (g) similar global laws concerning Personal Data protection or processing, each as amended, modified, and/or supplemented by relevant supervisory or data protection regulatory authority (\"Regulator\") guidance or decisions."
+  },
+  {
+    "clause_id": "1.2",
+    "heading": "Client Personal Data",
+    "summarised_text": "\"Client Personal Data\" means Personal Data provided to FCM by Client, its affiliates, employees, officers, contractors, representatives, agency workers, or end users for the provision of Services or in connection with the Agreement."
+  },
+  {
+    "clause_id": "1.3",
+    "heading": "Controller",
+    "summarised_text": "\"Controller\" means the natural or legal person, public authority, agency, or other body that, alone or jointly with others, determines the purposes and means of Processing Personal Data."
+  },
+  {
+    "clause_id": "1.4",
+    "heading": "Data Subject",
+    "summarised_text": "\"Data Subject\" means any natural person to whom Personal Data relates."
+  },
+  {
+    "clause_id": "1.5",
+    "heading": "Data Subject Request",
+    "summarised_text": "\"Data Subject Request\" means any request by a Data Subject regarding Personal Data Processed by a Controller pursuant to the provision of Services or in connection with the Agreement."
+  },
+  {
+    "clause_id": "1.6",
+    "heading": "GDPR",
+    "summarised_text": "\"GDPR\" means the EU General Data Protection Regulation EU 2016/679, as implemented into national law and as amended, extended, re-enacted, or applied by or under any other statute, law, or enactment."
+  },
+  {
+    "clause_id": "1.7",
+    "heading": "Good Industry Practice",
+    "summarised_text": "\"Good Industry Practice\" means the exercise of skill, diligence, prudence, and foresight reasonably and ordinarily expected from a skilled and experienced operator in similar undertakings and circumstances."
+  },
+  {
+    "clause_id": "1.8",
+    "heading": "Personal Data",
+    "summarised_text": "\"Personal Data\" means any information relating to an identified or identifiable natural person (one who can be identified, directly or indirectly, by reference to an identifier like a name, ID number, location data, online identifier, or factors specific to their physical, physiological, genetic, mental, economic, cultural, or social identity), or as otherwise defined in Applicable Privacy Laws."
+  },
+  {
+    "clause_id": "1.9",
+    "heading": "Personal Data Breach",
+    "summarised_text": "\"Personal Data Breach\" means a security breach leading to accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Client Personal Data in FCM’s possession or control. This includes unauthorized access, disclosure, loss, download, theft, blocking, encryption, or deletion of Client Personal Data by unauthorized third parties; operational incidents impacting Client Personal Data Processing; or any breach of this Addendum or Applicable Privacy Laws by FCM, its employees, or agents, affecting the integrity and security of Client Personal Data or materially impacting FCM's obligations under this Addendum."
+  },
+  {
+    "clause_id": "1.10",
+    "heading": "Processing",
+    "summarised_text": "\"Processing\" means any operation or set of operations performed on Personal Data, whether automated or not, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, access, consultation, use, acquisition, transfer, hosting, disclosure, alignment or combination, restriction, erasure, or destruction. Any activity defined as processing by Applicable Privacy Laws falls within this definition. \"Processed,\" \"Process,\" and other variations are defined similarly."
+  },
+  {
+    "clause_id": "1.11",
+    "heading": "Processor",
+    "summarised_text": "\"Processor\" means the natural or legal person, public authority, agency, or other body which Processes Personal Data on behalf of the Controller."
+  },
+  {
+    "clause_id": "1.12",
+    "heading": "Supervisory Authority",
+    "summarised_text": "\"Supervisory Authority\" means any data protection authority or other governmental, regulatory, administrative, judicial, or similar body with authority to implement, enforce, and/or oversee compliance with Applicable Privacy Laws."
+  },
+  {
+    "clause_id": "1.13",
+    "heading": "Vendor",
+    "summarised_text": "\"Vendor\" means transport, accommodation, and other wholesale service providers (e.g., airlines, coach, rail, car rental) engaged by FCM on the Client’s behalf to deliver travel-related products and services to the Client."
+  },
+  {
+    "clause_id": "2.",
+    "heading": "Parties as Controllers and compliance with Applicable Privacy Laws.",
+    "summarised_text": "The parties acknowledge that FCM processes Client Personal Data as a Controller to provide Services. Each party acts as a separate and independent Controller for Client Personal Data it Processes under the Agreement and Services, complying with all Applicable Privacy Laws and ensuring a lawful basis for processing. If an affiliate is a Controller or Processor, the party ensures its affiliate complies with Applicable Privacy Laws and this Addendum. Neither party shall \"sell\" (as defined by CCPA) or transfer Client Personal Data other than in compliance with Applicable Privacy Laws."
+  },
+  {
+    "clause_id": "3.",
+    "heading": "Information provided to Data Subjects.",
+    "summarised_text": "Before sharing Client Personal Data with FCM, Client must provide all notifications required by Applicable Privacy Laws to relevant Data Subjects regarding the sharing. Where FCM directly collects Client Personal Data, FCM is responsible for providing clear and transparent information to Data Subjects as required under Applicable Privacy Laws concerning the relevant Processing."
+  },
+  {
+    "clause_id": "4.",
+    "heading": "Cooperation and assistance",
+    "summarised_text": "Each party shall provide the other with reasonable cooperation, assistance, and information to help that other party comply with Applicable Privacy Laws."
+  },
+  {
+    "clause_id": "5.",
+    "heading": "Notifications.",
+    "summarised_text": "Each party shall promptly notify the other in writing (to the extent permitted by law), providing reasonable detail, of any third-party complaint, audit, investigation, or inquiry (from a Supervisory Authority, Data Subject, or otherwise) concerning possible non-compliance with Applicable Privacy Laws related to Client Personal Data maintained by or for such party. The parties will reasonably cooperate regarding such notifications."
+  },
+  {
+    "clause_id": "6.",
+    "heading": "Personal Data Breaches.",
+    "summarised_text": "The parties acknowledge that Applicable Privacy Laws may require informing a Supervisory Authority and Data Subject of a Personal Data Breach. FCM must promptly notify the Client of any technical, organisational, or other incidents (including at Processors) resulting in a Personal Data Breach (Art. 33 par. 1 GDPR) affecting Client Personal Data. FCM's notification must be comprehensive, including information required under Art. 33 par. 3 GDPR and/or Applicable Privacy Laws, if available. In a Personal Data Breach, FCM shall promptly take required measures under Applicable Privacy Laws and technical standards to restore confidentiality, integrity, and availability of Client Personal Data, system resilience, and mitigate harm to affected Data Subjects."
+  },
+  {
+    "clause_id": "7.",
+    "heading": "Data Subject Requests",
+    "summarised_text": "Each party will provide the other party with reasonable assistance in complying with any Data Subject Request."
+  },
+  {
+    "clause_id": "8.",
+    "heading": "Security.",
+    "summarised_text": "In accordance with Good Industry Practice and Applicable Privacy Laws, each party shall implement appropriate technical and organisational security measures (including security controls) to ensure a level of security for Personal Data in its possession or control that is appropriate to the Processing risk. This assessment considers the state of the art, implementation costs, nature, scope, context, and purpose of Processing, as well as the varying likelihood and severity of risks to Data Subjects' rights and freedoms. Particular attention is given to risks from accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to Client Personal Data. The Annexure sets out minimum technical and organisational security measures for FCM, which may be replaced by adequate alternatives that do not materially fall short of the stated security level."
+  },
+  {
+    "clause_id": "9.",
+    "heading": "Requirements as to personnel.",
+    "summarised_text": "FCM shall ensure that all personnel involved in processing Client Personal Data are properly qualified and trained, and have committed to confidentiality or are under an appropriate statutory obligation of confidentiality in accordance with Applicable Privacy Laws."
+  },
+  {
+    "clause_id": "10.",
+    "heading": "Appointment of data privacy personnel.",
+    "summarised_text": "Where required, each party will appoint authorized data privacy and security contact personnel."
+  },
+  {
+    "clause_id": "11.",
+    "heading": "Appointment of Processors.",
+    "summarised_text": "If FCM engages a third-party Processor for Client Personal Data processing to provide Services, FCM must agree to written terms with the Processor. These terms must (i) require processing only for delivering Services; (ii) mandate appropriate technical and organisational security measures to protect Client Personal Data against a Personal Data Breach; and (iii) ensure compliance with Applicable Privacy Laws. FCM remains responsible to the Client for any breach of this Addendum caused by the Processor. However, Client acknowledges that Vendors, to whom FCM discloses Client Personal Data for Services, are independent Controllers under Applicable Privacy Laws, not Processors, and thus Processor requirements do not apply to FCM's disclosures to Vendors."
+  },
+  {
+    "clause_id": "12.",
+    "heading": "Restricted transfers from the EEA.",
+    "summarised_text": "FCM may transfer and Process Client Personal Data from the EEA (and UK) to other jurisdictions for efficient Service delivery, provided (i) the transfer is necessary for contract conclusion or performance in the traveller's interest (e.g., booking travel via a Vendor in a non-European country) or required by law; or (ii) FCM has ensured adequate protection for transferred Client Personal Data outside the EEA (and UK), whether to an FCM Affiliate, Processor, or otherwise, in accordance with Applicable Privacy Laws. Client acknowledges FCM may ensure this protection by executing European Commission's Standard Contractual Clauses (\"SCCs\") or other approved clauses for UK Personal Data transfers. If Client transfers Client Personal Data from the EEA to FCM, SCCs will be attached as Annexure 2 and will apply to such transfers."
+  },
+  {
+    "clause_id": "13.",
+    "heading": "Return of data.",
+    "summarised_text": "The Client may, at its discretion and by written notice, require FCM to return a complete copy of all Client Personal Data to the Client (or its nominee) via secure file transfer in a reasonably notified format. The Client is responsible for providing any required notices to Data Subjects under Applicable Privacy Laws related to such request."
+  },
+  {
+    "clause_id": "14.",
+    "heading": "Data retention.",
+    "summarised_text": "FCM acknowledges that Personal Data should not be kept indefinitely or longer than necessary. Client Personal Data may be retained only as long as necessary to satisfy all applicable lawful bases for Processing under Art.6 GDPR (where applicable) and other Applicable Privacy Laws. FCM must ensure retained Personal Data is (i) kept confidential and protected against unauthorized access, disclosure, or use, and (ii) only Processed as necessary for the purpose specified in the Applicable Privacy Laws permitting its storage and other Processing, and for no other purpose."
+  },
+  {
+    "clause_id": "15.",
+    "heading": "Client’s right to audit.",
+    "summarised_text": "FCM shall maintain information necessary to demonstrate compliance with this Addendum and, upon reasonable notice during the Agreement term, make such information available to the Client, provided it is not subject to third-party confidentiality restrictions. FCM shall provide, upon request: (i) a list of all Processors appointed for Client Personal Data; (ii) its most recent PCI DSS Attestation of Compliance if Client Personal Data includes payment cardholder data; and (iii) a summary of its latest internal data security audit results for systems processing Client Personal Data. Non-public documentation and information disclosed under this paragraph are FCM's proprietary and confidential information and shall not be disclosed to third parties or used for purposes other than evaluating FCM’s compliance with this Addendum."
+  },
+  {
+    "clause_id": "16.",
+    "heading": "Survival",
+    "summarised_text": "The undertakings in this Data Privacy Addendum shall remain in force even after termination or expiration of the Agreement."
+  },
+  {
+    "clause_id": "1.",
+    "heading": "DATA SECURITY GOVERNANCE",
+    "summarised_text": "FCM maintains internal organisational and governance procedures to manage information throughout its lifecycle, and regularly tests, assesses, and evaluates the effectiveness of its technical and organisational measures."
+  },
+  {
+    "clause_id": "2.",
+    "heading": "PHYSICAL ACCESS CONTROL",
+    "summarised_text": "FCM employs various measures appropriate to the location's function to prevent unauthorised physical access where Personal Data are Processed. These include centralised key/code management, card-key procedures, batch card systems with logging/alerting, surveillance (alarms, CCTV), receptionists/visitor policies, and locked server racks/secured equipment rooms."
+  },
+  {
+    "clause_id": "3.",
+    "heading": "VIRTUAL ACCESS CONTROL",
+    "summarised_text": "FCM implements measures to prevent unauthorised use of its systems, achieved through individual, identifiable, and role-based user account assignment; role-based and password-protected access and authorisation; centralised password management and policies (minimum length, changes); disabling accounts after excessive failed log-on attempts; automatic log-off for inactivity; and anti-virus management."
+  },
+  {
+    "clause_id": "4.",
+    "heading": "DATA ACCESS CONTROL",
+    "summarised_text": "Individuals granted use of FCM systems can only access data required within their responsibilities and access permissions, preventing unauthorised reading, copying, modification, or removal. This is achieved via authentication at operating system and application levels, authentication against a centrally managed system, change control procedures for application/OS changes, authorised/authenticated remote access, logging of system and network activities for audit trails, and implementing protection measures for stored data (encryption, pseudonymisation, password controls)."
+  },
+  {
+    "clause_id": "5.",
+    "heading": "DISCLOSURE CONTROL",
+    "summarised_text": "FCM implements measures to prevent unauthorised reading, copying, alteration, or deletion of data during electronic transmission and transport of storage media, and to verify recipient entities. This is achieved via data transfer protocols including encryption for data carriers/media, profile set-up data transfer via secure file transfer, encrypted VPN, and no physical transfers of backup media."
+  },
+  {
+    "clause_id": "6.",
+    "heading": "DATA ENTRY CONTROL",
+    "summarised_text": "FCM implements measures to monitor data entry, changes, or removals and by whom. This is achieved through documentation of administration activities (user account setup, change management, access/authorisation), archiving password-reset and access requests, default-enabled system log files, and storage of audit logs for analysis."
+  },
+  {
+    "clause_id": "7.",
+    "heading": "INSTRUCTIONAL CONTROL",
+    "summarised_text": "FCM implements measures to ensure data processing occurs only according to relevant instructions, including binding policies and procedures for FCM employees and, where Processors are engaged, appropriate contractual provisions to maintain instructional control rights."
+  },
+  {
+    "clause_id": "8.",
+    "heading": "AVAILABILITY CONTROL",
+    "summarised_text": "FCM maintains appropriate redundancy and fault tolerance against accidental destruction or loss of data through extensive backup and recovery management systems, documented disaster recovery and business continuity plans, storage/archive policies, anti-virus, anti-spam, and firewall systems/management, appropriately equipped data centres (physically separated backups, UPS, redundant hardware/network, alarm/security systems), redundant technology on data storage systems, and built-in backup and redundancy for all critical systems."
+  },
+  {
+    "clause_id": "9.",
+    "heading": "SEPARATION CONTROL",
+    "summarised_text": "FCM implements measures to ensure data intended for different purposes are processed separately, achieved through access request and authorisation processes providing logical data separation, separation of functions (production/testing), and segregation of duties and authorisations between users, administrators, and system developers."
+  }
+]

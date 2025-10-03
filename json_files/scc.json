@@ -1,0 +1,272 @@
+[
+  {
+    "clause_id": "1.",
+    "heading": "Complete and sign the information block below with the Controller full legal entity name, address, and signatory information",
+    "summarised_text": "Controller must complete and sign the information block below with their full legal entity name, address, and signatory information to make this DPA effective."
+  },
+  {
+    "clause_id": "2.",
+    "heading": "Submit the completed and signed DPA to Proofpoint via email to privacy@proofpoint.com",
+    "summarised_text": "Controller must submit the completed and signed DPA to Proofpoint via email to privacy@proofpoint.com for it to be effective."
+  },
+  {
+    "clause_id": "1.",
+    "heading": "Definitions",
+    "summarised_text": "This clause defines key terms: 'Data Protection Laws' refers to all applicable laws and regulations for Personal Data Processing related to Proofpoint Products and Services; 'Data Subject' is the identified or identifiable person associated with Personal Data; 'Processing' has the GDPR meaning; 'Subprocessor' is any processor engaged by Proofpoint; 'Supervisory Authority' is an EU Member State public authority under GDPR. Other undefined terms derive meaning from GDPR and the Services Agreement."
+  },
+  {
+    "clause_id": "2.",
+    "heading": "Processing of Personal Data",
+    "summarised_text": "This clause outlines that Controller is the data controller/exporter and Processor (Proofpoint) is the data processor/importer for activities in Appendix 1. Controller warrants its instructions to Processor comply with Data Protection Laws. The Services Agreement defines the subject matter and duration of processing. Appendix 1 details the nature, purpose, types of Personal Data, and categories of Data Subjects. Controller is responsible for the accuracy, quality, and legality of Personal Data. The Services Agreement and this DPA constitute Controller's instructions for Personal Data processing and transfer for Service provision."
+  },
+  {
+    "clause_id": "3.",
+    "heading": "Data Protection Impact Assessment",
+    "summarised_text": "Processor will reasonably cooperate and assist Controller with GDPR-required data protection impact assessments related to the Service, if Controller lacks access to information and it's available to Processor. Processor will also provide reasonable assistance for cooperation or prior consultation with the Supervisory Authority as required by GDPR."
+  },
+  {
+    "clause_id": "4.",
+    "heading": "Rights of Data Subjects",
+    "summarised_text": "Processor will promptly notify Controller of Data Subject requests (e.g., access, rectification, erasure) to the extent legally permitted. Processor will assist Controller with appropriate technical and organizational measures to fulfill Controller's obligation to respond to such requests."
+  },
+  {
+    "clause_id": "5.",
+    "heading": "Limited use of Personal Data & personnel",
+    "summarised_text": "Processor acquires no rights to Personal Data, except as in the Services Agreement. Processor and affiliates must ensure personnel (employees, agents, contractors, Subprocessors) with Personal Data access are limited to those who need to know, for Services Agreement purposes, and comply with data protection laws, with all such individuals subject to confidentiality obligations."
+  },
+  {
+    "clause_id": "6.",
+    "heading": "Subprocessors",
+    "summarised_text": "Controller generally consents to Processor's use of Subprocessors, including affiliates and third parties. Processor must have written agreements with Subprocessors containing data protection obligations no less protective than this DPA and remains fully responsible for their performance. A list of Subprocessors is on the Proofpoint Trust Site; changes will be notified by email if Controller subscribed. Controller may object to new Subprocessors, prompting Processor to seek accommodations. If none are feasible within 30 days, Controller may terminate the relevant Service within 30 days of Processor's determination."
+  },
+  {
+    "clause_id": "7.",
+    "heading": "Special categories of Personal Data",
+    "summarised_text": "Controller and its European Union affiliates are solely responsible for compliance with data protection and privacy laws concerning any Personal Data, especially special categories like race, political opinions, health, or financial data."
+  },
+  {
+    "clause_id": "8.",
+    "heading": "Security of Personal Data",
+    "summarised_text": "Processor must implement technical and organizational measures per Appendix 2 to secure Personal Data against breaches (destruction, loss, alteration, unauthorized disclosure/access), considering state of the art, costs, nature, scope, context, purposes, and risks. Processor will limit personnel access to Personal Data to those necessary for Service Agreement implementation, management, and monitoring, ensuring they are bound by confidentiality."
+  },
+  {
+    "clause_id": "9.",
+    "heading": "Cooperation with Supervisory Authorities",
+    "summarised_text": "Upon Controller's request, Processor will provide reasonable cooperation and assistance for GDPR data protection impact assessments related to Controller's Service use, if information is not otherwise accessible and available to Processor. Processor will also assist Controller in cooperation or prior consultation with the Supervisory Authority regarding Section 8 tasks, as required by GDPR. At Controller's expense, Processor will make reasonable efforts to obtain Subprocessor cooperation for relevant information to fulfill Controller's GDPR obligations."
+  },
+  {
+    "clause_id": "10.",
+    "heading": "Personal Data Breach",
+    "summarised_text": "In a known unauthorized use, disclosure, or acquisition of Personal Data compromising its security ('Security Breach'), Processor will notify Controller in writing within 48 hours, providing periodic updates. Notification will include breach description (categories, approximate numbers of Data Subjects/records), a contact point, likely consequences, and measures taken or proposed. If all information cannot be provided immediately, initial notification will contain available details, with further information provided without undue delay as it becomes available."
+  },
+  {
+    "clause_id": "11.",
+    "heading": "International Transfer of Data",
+    "summarised_text": "Processor will comply with applicable Data Protection Laws for international Personal Data transfers from the EEA. For Service provision, Personal Data may be transferred to and processed in countries where Processor or Subprocessors operate, including third countries. All EEA Personal Data transfers will be governed by the Standard Contractual Clauses, incorporated as Schedule 2. For transfers to the US, Processor has compiled a Data Transfer Assessment (Transfer Impact Assessment) available online, in furtherance of Clause 14(b) of the SCC."
+  },
+  {
+    "clause_id": "12.",
+    "heading": "Governmental queries",
+    "summarised_text": "In accordance with Clause 15 of the SCC, Proofpoint will not disclose Customer Data to third parties unless necessary for Service provision or to comply with law or a valid governmental order. If Proofpoint receives a demand for sensitive Customer Data, it will attempt to redirect the governmental body to the Customer and may provide Customer's basic contact information. If compelled to disclose, Proofpoint will give Customer reasonable notice to seek a protective order unless legally prohibited. Proofpoint believes it is unlikely to be subject to government requests under FISA as a \"remote computing service,\" not a telecom provider."
+  },
+  {
+    "clause_id": "13.",
+    "heading": "Verification and audit",
+    "summarised_text": "Pursuant to GDPR Section 28.3(h), Processor will provide Controller with information on Personal Data processing upon reasonable written request, subject to an NDA, to demonstrate DPA compliance. Processor will allow onsite inspections by Controller or an independent auditor to verify DPA compliance if: (a) Processor hasn't provided sufficient written evidence of compliance with technical/organizational measures; (b) a Security Breach occurred; (c) Controller's Supervisory Authority officially requests an inspection; or (d) Data Protection Law mandates an onsite inspection right. Such inspections are limited to once per year unless legally mandated more frequently. All information and audits are subject to an NDA and must not impact the safety, security, confidentiality, integrity, availability, continuity, and resilience of inspected facilities or compromise confidential data. Each party bears its own audit/inspection costs, including for SCC Section 8.9 (c-e)."
+  },
+  {
+    "clause_id": "14.",
+    "heading": "Termination",
+    "summarised_text": "Controller acknowledges and agrees that the timeframe for Processor's cessation of processing and deletion of personal data following a suspension or termination under this DPA or Clause 18 of the Standard Contractual Clauses will be governed by the Services Agreement."
+  },
+  {
+    "clause_id": "APPENDIX 1",
+    "heading": "Details of the Processing",
+    "summarised_text": "This appendix details the Processing of Customer’s Personal Data as required by Article 28(3) GDPR. It outlines various Proofpoint products (Archive, CAD/CASB, Cloudmark, Continuity/DLP/Email Protection/Privacy/TAP, Digital Discover/Protection/Compliance, Email Fraud Defense, Essentials, Insider Threat Management SaaS, Isolation, Zero Trust Network Access, Proofpoint Security Awareness Training), specifying the Data Subjects, Categories of Personal Data, and Processing Operations for each. Additionally, it states that product-specific DPA Appendices with more detail are available on the Proofpoint website, and only those covering licensed products are incorporated into this DPA."
+  },
+  {
+    "clause_id": "1.",
+    "heading": "Subprocessors",
+    "summarised_text": "A current list of subprocessors can be found at https://www.proofpoint.com/us/legal/trust."
+  },
+  {
+    "clause_id": "APPENDIX 2",
+    "heading": "Security of Processing",
+    "summarised_text": "This appendix outlines the technical and organizational measures Proofpoint implements to ensure an appropriate level of security for Service provision, considering state of the art, costs, nature, scope, context, purposes of processing, and risks to data subjects. These measures include: A. User Authentication (information security policy, security standards, authentication/authorization procedures, monitoring failed logins, two-factor authenticated VPN access for production environment, restricted change implementation); B. Execution of backup copies (regular backups of configuration and report data, documented backup/retention procedures); C. Computers and access terminals (secure VPN for employee access to infrastructure, anti-virus software, centralized authentication, NDA and security code of conduct for new employees); D. Access logs (centralized logging of access attempts, automated reporting of unusual activity, account lockout policies, password complexity/age requirements, retention of application event data); E. Telecommunication systems (redundant internet feeds for data centers); F. Instruction of personnel (annual security/awareness training, specialized training for Security Operations team, organizational plan separating incompatible roles/duties, clearly defined roles); G. Use of computers (restricted access to production networks for approved anti-virus systems, centralized authentication, acceptable use policies, NDA and Security Code of Conduct for new employees); H. Printing of data (customer data not available for printing, no printers in production data centers, print services disabled on production servers); K. Physical Access Control (Proofpoint controls for co-location providers, hosting provider controls for AWS/Azure/Google Cloud); L. Physical Security Measures for Data Centers (same as K); M. Access control to IT systems (unique user IDs, enforced password requirements, role-based logical access for Operations group, VPN audit logging, near real-time audit log monitoring/alerting); N. Access control to data (customer data not in Corporate Environment, role-based access, privileged access for authorized personnel only); O. Audit logging (on VPN and production environment systems); P. Implement least privilege access control (role-based access to Production Environment for authorized personnel); Q. Security while transferring and processing (Customer data not in Corporate Environment, logically/physically segregated Production Environment, two-factor authenticated VPN access, industry-standard firewalls, TLS encryption for admin access, LDAP for personnel access, patched OS, disabled unnecessary services, changed default passwords); R. Security while transmitting data over public networks (TLS encryption for all administrative access); S. Implementation and Operations phase controls (automatic service functionality, human intervention only for analytics/troubleshooting); T. Traceability of any access, change and deletion (role-based access, privileged access for authorized personnel, audit logging on VPN and production environment systems); U. Ensuring Compliant Data Processing (automatic customer data processing by Services, manual processing only for analytics/troubleshooting); V. Ensuring Availability (high-availability infrastructure, Tier-3 data centers, onsite generators, Business Continuity Action Plan, distributed monitoring, industry-standard firewalls, centrally-controlled anti-virus for corporate devices); W. Data Separation (logical segregation using unique Client IDs). Product-specific DPA Appendices for technical and organizational security measures are available online, with only licensed product appendices incorporated."
+  },
+  {
+    "clause_id": "SCHEDULE 2",
+    "heading": "Standard contractual clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and of the Council",
+    "summarised_text": "This schedule contains the Standard Contractual Clauses (SCC) for transferring personal data to third countries under Regulation (EU) 2016/679, specifically for controller to processor transfers. It comprises Section I (Purpose and scope, Effect and invariability of Clauses, Third-party beneficiaries, Interpretation, Hierarchy, Description of the transfer, Docking clause – Not Applicable) and Section II (Obligations of the Parties). The purpose is to ensure GDPR compliance for data transfers to third countries, with the data exporter being the Controller and the data importer being Proofpoint. These clauses provide appropriate safeguards, enforceable data subject rights, and legal remedies. They prevail over conflicting provisions in other agreements. Annex I.B specifies transfer details. Section III covers local laws and obligations in case of public authority access, and Section IV contains final provisions on non-compliance and termination. The Appendix and its Annexes are integral parts of these Clauses."
+  },
+  {
+    "clause_id": "Clause 1",
+    "heading": "Purpose and scope",
+    "summarised_text": "These standard contractual clauses aim to ensure compliance with Regulation (EU) 2016/679 for personal data transfers to third countries. The Parties, comprising the data exporter (Controller) and data importer (Proofpoint), agree to these clauses for transfers specified in Annex I.B. The Appendix, including its Annexes, forms an integral part of these Clauses."
+  },
+  {
+    "clause_id": "Clause 2",
+    "heading": "Effect and invariability of the Clauses",
+    "summarised_text": "These Clauses establish appropriate safeguards, including enforceable data subject rights and legal remedies, under Article 46(1) and 46(2)(c) of Regulation (EU) 2016/679, and standard contractual clauses under Article 28(7) for controller/processor transfers. They must not be modified, except for module selection or appendix updates, and do not prevent adding other clauses/safeguards if they don't contradict these Clauses or prejudice data subjects' rights. These Clauses do not affect the data exporter's obligations under Regulation (EU) 2016/679."
+  },
+  {
+    "clause_id": "Clause 3",
+    "heading": "Third-party beneficiaries",
+    "summarised_text": "Data subjects may invoke and enforce these Clauses against the data exporter and/or data importer as third-party beneficiaries, with specific exceptions for certain sub-clauses in Clauses 1, 2, 3, 6, 7, 8, 9, 12, 13, 15.1, 16, and 18. This is without prejudice to data subjects' rights under Regulation (EU) 2016/679."
+  },
+  {
+    "clause_id": "Clause 4",
+    "heading": "Interpretation",
+    "summarised_text": "Terms used in these Clauses that are defined in Regulation (EU) 2016/679 shall have the same meaning. These Clauses shall be read and interpreted in light of Regulation (EU) 2016/679 and not in a way that conflicts with its provided rights and obligations."
+  },
+  {
+    "clause_id": "Clause 5",
+    "heading": "Hierarchy",
+    "summarised_text": "In case of contradiction between these Clauses and related agreements, these Clauses shall prevail."
+  },
+  {
+    "clause_id": "Clause 6",
+    "heading": "Description of the transfer(s)",
+    "summarised_text": "The details of the transfer(s), including categories of personal data and their purpose(s), are specified in Annex I.B."
+  },
+  {
+    "clause_id": "Clause 7",
+    "heading": "Docking clause",
+    "summarised_text": "This clause is not applicable."
+  },
+  {
+    "clause_id": "Clause 8",
+    "heading": "Data protection safeguards",
+    "summarised_text": "The data exporter warrants that it has reasonably determined the data importer can fulfill its obligations under these Clauses through appropriate technical and organisational measures. This clause also details specific obligations for transfers from controller to processor."
+  },
+  {
+    "clause_id": "8.1",
+    "heading": "Instructions",
+    "summarised_text": "The data importer shall process personal data only based on documented instructions from the data exporter, which can be given throughout the contract duration. The data importer must immediately inform the data exporter if it cannot follow these instructions."
+  },
+  {
+    "clause_id": "8.2",
+    "heading": "Purpose limitation",
+    "summarised_text": "The data importer shall process personal data solely for the transfer's specific purpose(s) outlined in Annex I.B, unless instructed otherwise by the data exporter."
+  },
+  {
+    "clause_id": "8.3",
+    "heading": "Transparency",
+    "summarised_text": "Upon request, the data exporter shall provide a free copy of these Clauses, including the completed Appendix, to the data subject. The data exporter may redact business secrets, confidential information (including Annex II measures and personal data), but must provide a meaningful summary if the data subject would otherwise be unable to understand the content or exercise rights. Parties shall give reasons for redactions if possible. This clause does not affect data exporter's obligations under GDPR Articles 13 and 14."
+  },
+  {
+    "clause_id": "8.4",
+    "heading": "Accuracy",
+    "summarised_text": "If the data importer becomes aware that received personal data is inaccurate or outdated, it must inform the data exporter without undue delay and cooperate to erase or rectify the data."
+  },
+  {
+    "clause_id": "8.5",
+    "heading": "Duration of processing and erasure or return of data",
+    "summarised_text": "Processing by the data importer will occur only for the duration specified in Annex I.B. After service provision ends, the data importer must, at the data exporter's choice, delete all processed personal data and certify this, or return all data and delete copies. Until deletion or return, compliance with these Clauses must be maintained. If local laws prohibit return or deletion, the data importer warrants continued compliance and will process data only as long as required by law, without prejudice to Clause 14 obligations, especially notifying the data exporter of non-compliant local laws."
+  },
+  {
+    "clause_id": "8.6",
+    "heading": "Security of processing",
+    "summarised_text": "Both data importer and data exporter (during transmission) must implement appropriate technical and organizational measures to ensure data security, including protection against personal data breaches. They must consider state of the art, costs, nature, scope, context, purposes, and risks to data subjects, potentially using encryption or pseudonymisation. The data importer must implement Annex II measures and regularly check their effectiveness. Access to personal data is strictly limited to authorized personnel necessary for contract implementation, management, and monitoring, with confidentiality commitments. In case of a personal data breach, the data importer must take appropriate mitigation measures and notify the data exporter without undue delay, providing details such as contact point, breach nature, likely consequences, and measures taken/proposed. If all information isn't available at once, initial notification will provide current data, with further updates without undue delay. The data importer must cooperate and assist the data exporter in fulfilling its GDPR obligations, including notifying supervisory authorities and affected data subjects."
+  },
+  {
+    "clause_id": "8.7",
+    "heading": "Sensitive data",
+    "summarised_text": "If the transfer involves sensitive data (racial/ethnic origin, political opinions, religious/philosophical beliefs, trade union membership, genetic data, biometric data for identification, health, sex life/sexual orientation, criminal convictions/offences), the data importer must apply specific restrictions and/or additional safeguards as described in Annex I.B."
+  },
+  {
+    "clause_id": "8.8",
+    "heading": "Onward transfers",
+    "summarised_text": "The data importer can only disclose personal data to a third party based on documented instructions from the data exporter. Onward transfers to third parties outside the EU are permitted only if the third party agrees to be bound by these Clauses (under the appropriate Module), or if: (i) the country benefits from an Article 45 GDPR adequacy decision covering the transfer; (ii) the third party ensures appropriate safeguards per Article 46 or 47 GDPR; (iii) the transfer is necessary for legal claims in administrative, regulatory, or judicial proceedings; or (iv) the transfer is necessary to protect vital interests of a data subject or other natural person. Any onward transfer is subject to the data importer's compliance with all other safeguards, especially purpose limitation."
+  },
+  {
+    "clause_id": "8.9",
+    "heading": "Documentation and compliance",
+    "summarised_text": "The data importer must promptly and adequately address data exporter inquiries regarding processing under these Clauses. Both Parties must demonstrate compliance, with the data importer keeping documentation of processing activities. The data importer must provide the data exporter with all necessary information to demonstrate compliance and allow for/contribute to audits of processing activities at reasonable intervals or if non-compliance is indicated, considering relevant certifications. The data exporter may conduct audits itself or mandate an independent auditor, including onsite inspections with reasonable notice. Both Parties must make information and audit results available to the competent supervisory authority upon request."
+  },
+  {
+    "clause_id": "Clause 9",
+    "heading": "Use of sub-processors",
+    "summarised_text": "The data importer has the data exporter's general written authorization to engage sub-processors from an agreed list. The data importer must specifically notify the data exporter in writing of any intended changes (additions or replacements) to this list at least [Specify time period] in advance, allowing the data exporter time to object and providing necessary information to do so. If the data importer engages a sub-processor, it must do so via a written contract with data protection obligations substantially similar to those in these Clauses, including third-party beneficiary rights for data subjects, thus fulfilling Clause 8.8 obligations. The data importer must ensure sub-processor compliance with its obligations under these Clauses. Upon request, the data importer will provide a copy of the sub-processor agreement, redacting confidential information if necessary. The data importer remains fully responsible to the data exporter for sub-processor performance and must notify the data exporter of any sub-processor failure. The data importer must agree to a third-party beneficiary clause with the sub-processor, granting the data exporter the right to terminate the sub-processor contract and instruct erasure or return of data if the data importer disappears, ceases to exist, or becomes insolvent."
+  },
+  {
+    "clause_id": "Clause 10",
+    "heading": "Data subject rights",
+    "summarised_text": "The data importer must promptly notify the data exporter of any data subject requests and shall not respond independently unless authorized by the data exporter. The data importer shall assist the data exporter in fulfilling its obligations to respond to data subjects' GDPR rights requests. Annex II will specify appropriate technical and organizational measures, scope, and extent of assistance. The data importer must comply with the data exporter's instructions in fulfilling these obligations."
+  },
+  {
+    "clause_id": "Clause 11",
+    "heading": "Redress",
+    "summarised_text": "The data importer must transparently inform data subjects of a contact point for complaints, either individually or on its website, and promptly handle any received complaints. In disputes regarding Clause compliance, the Parties will strive to resolve issues amicably and cooperate as appropriate. If a data subject invokes Clause 3 rights, the data importer must accept their decision to lodge a complaint with the supervisory authority (per Clause 13) or refer the dispute to competent courts (per Clause 18). Data subjects may be represented by a not-for-profit body under GDPR Article 80(1). The data importer must abide by binding EU or Member State law decisions. The data importer agrees that the data subject's choice does not prejudice their substantive and procedural rights to seek remedies under applicable laws."
+  },
+  {
+    "clause_id": "Clause 12",
+    "heading": "Liability",
+    "summarised_text": "Each Party is liable to the other for damages caused by breaching these Clauses. The data importer is liable to the data subject for material or non-material damages caused by breaching third-party beneficiary rights, and the data subject is entitled to compensation. The data exporter is also liable to the data subject for material or non-material damages caused by itself or the data importer (or its sub-processor) breaching third-party beneficiary rights, without prejudice to the data exporter's or controller's liability under GDPR. If the data exporter is held liable for data importer's (or sub-processor's) damages, it can claim back the corresponding portion of compensation from the data importer. If multiple Parties are responsible, they are jointly and severally liable, and the data subject can sue any of them. If one Party is held liable under joint and several liability, it can claim back the corresponding portion of compensation from the other Party/ies. The data importer cannot invoke a sub-processor's conduct to avoid its own liability."
+  },
+  {
+    "clause_id": "Clause 13",
+    "heading": "Supervision",
+    "summarised_text": "If the data exporter is not established in an EU Member State but falls under GDPR's territorial scope (Article 3(2)) without needing an Article 27(2) representative, the supervisory authority of a Member State where affected data subjects are located will act as the competent authority (as indicated in Annex I.C). The data importer agrees to submit to the jurisdiction of and cooperate with the competent supervisory authority, including responding to inquiries, submitting to audits, and complying with adopted measures, providing written confirmation of actions taken."
+  },
+  {
+    "clause_id": "Clause 14",
+    "heading": "Local laws and practices affecting compliance with the Clauses",
+    "summarised_text": "The Parties warrant no reason to believe that destination country laws/practices, including disclosure requirements or public authority access, prevent the data importer from fulfilling its obligations under these Clauses, assuming such laws respect fundamental rights and are proportionate. This warranty considers specific transfer circumstances (processing chain, actors, channels, recipients, purpose, data categories/format, economic sector, storage location), destination country laws/practices (including disclosure/access by authorities and applicable limitations/safeguards, potentially practical experience with requests), and supplementary contractual/technical/organizational safeguards. The data importer warrants its best efforts in providing relevant information for this assessment and continued cooperation. The assessment must be documented and available to the supervisory authority. The data importer agrees to promptly notify the data exporter if it believes it is or has become subject to non-compliant laws/practices. Following such notification or other data exporter belief of non-compliance, the data exporter must promptly identify appropriate measures or suspend the transfer if adequate safeguards cannot be ensured or if instructed by the supervisory authority. In this case, the data exporter may terminate the contract concerning personal data processing under these Clauses. If the contract involves multiple Parties, termination applies only to the relevant Party unless otherwise agreed. Upon termination under this Clause, Clause 16(d) and (e) apply."
+  },
+  {
+    "clause_id": "Clause 15",
+    "heading": "Obligations of the data importer in case of access by public authorities",
+    "summarised_text": "The data importer agrees to promptly notify the data exporter and, if possible, the data subject (with data exporter's help) if it receives a legally binding request from a public authority for personal data disclosure or becomes aware of direct access by public authorities. Notification must include details of the requested data, requesting authority, legal basis, and response provided. If prohibited from notifying, the data importer will use best efforts to obtain a waiver. Where permissible, the data importer will provide regular information on requests received (number, type of data, requesting authority, challenges, outcomes) and preserve this information, making it available to the supervisory authority upon request. These notifications are without prejudice to Clause 14(e) and Clause 16 obligations to inform the data exporter of inability to comply. The data importer also agrees to review the legality of disclosure requests, challenging unlawful ones and pursuing appeals, and seeking interim measures to suspend effects until judicial decision. Personal data will not be disclosed until required by applicable procedural rules. The data importer must document its legal assessment and challenges, making documentation available to the data exporter and supervisory authority. Finally, the data importer will provide the minimum amount of information permissible when responding to disclosure requests, based on a reasonable interpretation."
+  },
+  {
+    "clause_id": "15.1",
+    "heading": "Notification",
+    "summarised_text": "The data importer agrees to promptly notify the data exporter and, if possible, the data subject (with data exporter's help) if it receives a legally binding request from a public authority for personal data disclosure, or becomes aware of any direct access by public authorities. Such notification must include details of the requested personal data, requesting authority, legal basis, response, and all available information regarding direct access. If prohibited from notifying, the data importer will use best efforts to obtain a waiver. Where permissible, the data importer will provide the data exporter, at regular intervals, with relevant information on requests received (e.g., number, type of data, requesting authority, challenges, outcomes). This information must be preserved for the contract duration and made available to the competent supervisory authority upon request. This clause is without prejudice to the data importer's obligations under Clause 14(e) and Clause 16 to promptly inform the data exporter if it is unable to comply with these Clauses."
+  },
+  {
+    "clause_id": "15.2",
+    "heading": "Review of legality and data minimisation",
+    "summarised_text": "The data importer agrees to review the legality of any disclosure request, challenging it if there are reasonable grounds to consider it unlawful under destination country laws, international law, and comity principles. The data importer will pursue appeal possibilities and seek interim measures to suspend request effects until a judicial decision, not disclosing personal data until required by procedural rules. This is without prejudice to Clause 14(e). The data importer will document its legal assessment and challenges, making them available to the data exporter (if permissible) and the supervisory authority upon request. The data importer agrees to provide the minimum amount of information permissible when responding to a disclosure request, based on a reasonable interpretation."
+  },
+  {
+    "clause_id": "Clause 16",
+    "heading": "Non-compliance with the Clauses and termination",
+    "summarised_text": "The data importer must promptly inform the data exporter if it cannot comply with these Clauses for any reason. If the data importer breaches or cannot comply, the data exporter must suspend personal data transfer until compliance is restored or the contract is terminated, without prejudice to Clause 14(f). The data exporter can terminate the contract (regarding personal data processing under these Clauses) if: (i) transfer suspension (per paragraph (b)) lasts beyond a reasonable time or one month; (ii) the data importer is in substantial or persistent breach; or (iii) the data importer fails to comply with a binding court or supervisory authority decision. In these cases, the competent supervisory authority will be informed of non-compliance. If multiple Parties are involved, termination applies only to the relevant Party unless otherwise agreed. Personal data transferred before termination (per paragraph (c)) must be immediately returned to the data exporter or deleted entirely, with certification of deletion. Until deletion or return, compliance with these Clauses must continue. If local laws prohibit return or deletion, the data importer warrants continued compliance and will process data only as long as required by law. Either Party may revoke its agreement to these Clauses if (i) the European Commission adopts an Article 45(3) GDPR decision covering the transfer, or (ii) Regulation (EU) 2016/679 becomes part of the legal framework of the destination country, without prejudice to other GDPR obligations."
+  },
+  {
+    "clause_id": "Clause 17",
+    "heading": "Governing law",
+    "summarised_text": "These Clauses are governed by the law of an EU Member State that allows for third-party beneficiary rights. This shall be (a) the law specified in the Services Agreement if it is an EU member state, or (b) the laws of the Netherlands if the Services Agreement is governed by the laws of a third country."
+  },
+  {
+    "clause_id": "Clause 18",
+    "heading": "Choice of forum and jurisdiction",
+    "summarised_text": "Any dispute arising from these Clauses will be resolved by the courts of an EU Member State. The Parties agree these courts will be (i) those specified in the Services Agreement if it appointed an EU member state court, or (ii) the Courts of Amsterdam if the Services Agreement appointed a court of a third country. A data subject may also bring legal proceedings against the data exporter and/or data importer before the courts of their habitual residence's Member State. The Parties agree to submit to the jurisdiction of such courts."
+  },
+  {
+    "clause_id": "ANNEX I",
+    "heading": "A. List of Parties",
+    "summarised_text": "The data exporter is the Controller identified on page 1 of the DPA. The data importer is Proofpoint, Inc., a provider of email and social media security services, threat analytics, and security training."
+  },
+  {
+    "clause_id": "B. Description of Transfer",
+    "heading": "Description of Transfer",
+    "summarised_text": "Data subjects are Controller’s employees and contractors, and those of Controller’s customers and vendors. The categories of data are identified in Appendix 1 to this DPA, and Controller will not transfer sensitive data to Proofpoint. The frequency of transfer, nature, purpose of processing, and retention period are also identified in Appendix 1."
+  },
+  {
+    "clause_id": "C. Competent Supervisory Authority",
+    "heading": "Competent Supervisory Authority",
+    "summarised_text": "The competent supervisory authority, in accordance with Clause 13, is The Data Protection Authority of the Netherlands."
+  },
+  {
+    "clause_id": "ANNEX II",
+    "heading": "Technical and Organisational Measures Including Technical and Organisational Measures to Ensure the Security of the Data",
+    "summarised_text": "The security, technical, and organizational measures are described in Appendix 2 to this DPA."
+  },
+  {
+    "clause_id": "ANNEX III",
+    "heading": "List of Sub-processors",
+    "summarised_text": "The current list of subprocessors for the Service is available on the Proofpoint Trust Site at: https://www.proofpoint.com/us/legal/trust."
+  }
+]

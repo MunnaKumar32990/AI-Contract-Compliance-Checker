@@ -1,0 +1,327 @@
+[
+  {
+    "clause_id": "Addendum",
+    "heading": "Hatchbuck EU Data Processing Addendum",
+    "summarised_text": "This EU Data Processing Addendum (\"Addendum\") supplements the Hatchbuck License Terms and Conditions (\"Agreement\") between Hatchbuck Customer (\"Controller\") and Systematic Revenue, LLC dba Hatchbuck (\"Processor\"). Undefined terms adopt meanings from the Agreement. In case of conflict, this Addendum's terms supersede the Agreement."
+  },
+  {
+    "clause_id": "1.",
+    "heading": "Definitions",
+    "summarised_text": "This clause defines key terms used in the Addendum. \"Authorized Employee\" refers to a Processor employee needing access to Personal Data for obligations under this Addendum or the Agreement. \"Authorized Individual\" includes Authorized Employees and Authorized Subcontractors. \"Authorized Subcontractor\" is a third-party subcontractor, agent, reseller, or auditor accessing Personal Data for Processor's obligations, either listed on Hatchbuck's website or authorized by Controller under Section 4.2. \"Data Subject\" is an identified or identifiable person to whom Personal Data relates. \"Instructions\" are Controller's directions to Processor for Processing Personal Data. \"Personal Data\" is information relating to a Data Subject, excluding anonymized data, and includes sensitive personal information such as government IDs, financial account numbers, genetic/biometric/health data, or data revealing racial/ethnic origin, political opinions, religious/philosophical beliefs, sexual orientation/activity, criminal convictions, or trade union membership. \"Personal Data Breach\" is a security breach causing accidental/unlawful destruction, loss, alteration, unauthorized disclosure, or access to personal data. \"Process\" or \"Processing\" means any operation on Personal Data, automated or otherwise, including collection, storage, retrieval, disclosure, etc. \"Subscription Services\" has the meaning in the Agreement. \"Standard Contractual Clauses\" refers to the agreement in Exhibit B for transferring personal data to third countries. \"Supervisory Authority\" is an independent public authority in EU member states or associated countries."
+  },
+  {
+    "clause_id": "1.1",
+    "heading": "Authorized Employee",
+    "summarised_text": "\"Authorized Employee\" means an employee of Processor who has a need to know or otherwise access Personal Data to enable Processor to perform its obligations under this Addendum or the Agreement."
+  },
+  {
+    "clause_id": "1.2",
+    "heading": "Authorized Individual",
+    "summarised_text": "\"Authorized Individual\" means an Authorized Employee or Authorized Subcontractor."
+  },
+  {
+    "clause_id": "1.3",
+    "heading": "Authorized Subcontractor",
+    "summarised_text": "\"Authorized Subcontractor\" means a third-party subcontractor, agent, reseller, or auditor who has a need to know or otherwise access Personal Data to enable Processor to perform its obligations under this Addendum or the Agreement and who is either (1) listed at https://www.hatchbuck.com/lp/authorized-subcontractors/ at the time the parties enter into this Addendum or (2) later authorized by Controller to do so under Section 4.2 of this Addendum."
+  },
+  {
+    "clause_id": "1.4",
+    "heading": "Data Subject",
+    "summarised_text": "\"Data Subject\" means an identified or identifiable person to whom Personal Data relates."
+  },
+  {
+    "clause_id": "1.5",
+    "heading": "Instructions",
+    "summarised_text": "\"Instructions\" means the directions, either in writing, in textual form (e.g. by e-mail) or by using a software or online tool, issued by Controller to Processor and directing Processor to Process Personal Data."
+  },
+  {
+    "clause_id": "1.6",
+    "heading": "Personal Data",
+    "summarised_text": "\"Personal Data\" means any information relating to Data Subject which Processor Processes on behalf of Controller other than data which can no longer be attributed to an identified or identifiable natural person, and including, without limitation, the following sensitive personal information: a Data Subject’s (i) government-issued identification number (including social security number, driver’s license number or state-issued identification number); (ii) financial account number, credit card number, debit card number, credit report information, with or without any required security code, access code, personal identification number or password, that would permit access to an individual’s financial account; (iii) genetic and biometric data or data concerning health; or (iv) Personal Data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, sexual orientation or sexual activity, criminal convictions and offences (including commission of or proceedings for any offense committed or alleged to have been committed), or trade union membership."
+  },
+  {
+    "clause_id": "1.7",
+    "heading": "Personal Data Breach",
+    "summarised_text": "\"Personal Data Breach\" means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed."
+  },
+  {
+    "clause_id": "1.8",
+    "heading": "Process or Processing",
+    "summarised_text": "\"Process\" or \"Processing\" means any operation or set of operations which is performed upon the Personal Data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure, or destruction."
+  },
+  {
+    "clause_id": "1.9",
+    "heading": "Subscription Services",
+    "summarised_text": "\"Subscription Services\" shall have the meaning set forth in the Agreement."
+  },
+  {
+    "clause_id": "1.10",
+    "heading": "Standard Contractual Clauses",
+    "summarised_text": "\"Standard Contractual Clauses\" means the Agreement executed by and between Controller and Processor and attached hereto as Exhibit B pursuant to the European Commission’s decision (C(2010)593) of February 5, 2010 on standard contractual clauses for the transfer of personal data to processors established in third countries which do not ensure an adequate level of protection."
+  },
+  {
+    "clause_id": "1.11",
+    "heading": "Supervisory Authority",
+    "summarised_text": "\"Supervisory Authority\" means an independent public authority which is established by a member state of the European Union, Iceland, Liechtenstein, or Norway."
+  },
+  {
+    "clause_id": "2.",
+    "heading": "Processing of Data",
+    "summarised_text": "This clause outlines the rights and obligations for data processing. Controller must always process Personal Data and provide Instructions in compliance with EU Directive 95/46/EC and GDPR (\"Data Protection Laws\"). Controller is responsible for ensuring its Instructions comply with all applicable laws and do not cause Processor to breach Data Protection Laws. Controller is solely responsible for the accuracy, quality, legality of Personal Data provided, the means of acquisition, and the Instructions. Controller must not provide Personal Data in violation of the Agreement or inappropriate for Subscription Services and indemnifies Processor from related claims. Processor must Process Personal Data only for Agreement purposes, according to this Addendum and Controller's Instructions, and in compliance with Data Protection Laws. Controller instructs Processor to Process Personal Data as part of its use of Subscription Services. Exhibit A details the subject matter, nature, purpose, and duration of processing, types of Personal Data, and categories of Data Subjects. After Subscription Services completion, Processor will return or delete Personal Data as per Controller's choice, unless retention is required by EU law."
+  },
+  {
+    "clause_id": "2.1",
+    "heading": "Processing of Data",
+    "summarised_text": "The Controller is obligated to process Personal Data and provide instructions in accordance with EU Directive 95/46/EC and GDPR. The Controller must ensure its instructions comply with all applicable laws and do not cause Processor to breach Data Protection Laws. The Controller is solely responsible for the accuracy, quality, and legality of Personal Data provided and how it was acquired. The Controller must not provide inappropriate Personal Data and will indemnify Processor for related claims and losses."
+  },
+  {
+    "clause_id": "2.2",
+    "heading": "Processing of Data",
+    "summarised_text": "Processor shall Process Personal Data only (i) for the purposes set forth in the Agreement, (ii) in accordance with the terms and conditions set forth in this Addendum and any other documented Instructions provided by Controller, and (iii) in compliance with the Directive, and, when effective, the GDPR. Controller hereby instructs Processor to Process Personal Data in accordance with the foregoing and as part of any Processing initiated by Controller in its use of the Subscription Services."
+  },
+  {
+    "clause_id": "2.3",
+    "heading": "Subject Matter of Processing",
+    "summarised_text": "The subject matter, nature, purpose and duration of this Processing, as well as the types of Personal Data collected and categories of Data Subjects, are described in Exhibit A to this Addendum."
+  },
+  {
+    "clause_id": "2.4",
+    "heading": "Return or Deletion of Personal Data",
+    "summarised_text": "Following completion of the Subscription Services, at Controller’s choice, Processor shall return or delete the Personal Data, except as required to be retained by the laws of the European Union or European Union member states."
+  },
+  {
+    "clause_id": "3.",
+    "heading": "Authorized Employees",
+    "summarised_text": "This clause covers the Processor's responsibilities regarding Authorized Employees. Processor must take commercially reasonable steps to ensure the reliability and appropriate training of all Authorized Employees. Processor must ensure Authorized Employees are aware of the confidential nature of Personal Data and have signed confidentiality agreements preventing disclosure or processing of Personal Data outside their Subscription Services obligations, both during and after their engagement. Processor also must take commercially reasonable steps to limit Personal Data access only to Authorized Individuals."
+  },
+  {
+    "clause_id": "3.1",
+    "heading": "Reliability and Training",
+    "summarised_text": "Processor shall take commercially reasonable steps to ensure the reliability and appropriate training of any Authorized Employee."
+  },
+  {
+    "clause_id": "3.2",
+    "heading": "Confidentiality Agreements",
+    "summarised_text": "Processor shall ensure that all Authorized Employees are made aware of the confidential nature of Personal Data and have executed confidentiality agreements that prevent them from disclosing or otherwise Processing, both during and after their engagement with Processor, any Personal Data except in accordance with their obligations in connection with the Subscription Services."
+  },
+  {
+    "clause_id": "3.3",
+    "heading": "Limited Access",
+    "summarised_text": "Processor shall take commercially reasonable steps to limit access to Personal Data to only Authorized Individuals."
+  },
+  {
+    "clause_id": "4.",
+    "heading": "Authorized Subcontractors",
+    "summarised_text": "This clause specifies rules for Authorized Subcontractors. Controller agrees Processor may engage Authorized Subcontractors listed in Exhibit C, and other third parties for Subscription Services, including Personal Data Processing. A list of current Authorized Subcontractors is available on Hatchbuck's website. Processor will notify Controller via email at least ten days before engaging any new third party for Personal Data processing, by adding them to the list. Controller may object in writing within ten days. If Controller reasonably objects, Processor will propose commercial alternatives, or if none are possible or accepted, Processor may terminate the Addendum without relieving Controller of fees. If Controller does not object within ten days, the third party is deemed an Authorized Subcontractor. Processor must ensure all Authorized Subcontractors have confidentiality agreements. Processor must ensure, through contract, that Authorized Subcontractors adhere to Personal Data processing obligations no less protective than those Processor is subject to under this Addendum. Processor is liable to Controller for Authorized Subcontractors' acts and omissions to the same extent as if Processor performed them. If Controller has Standard Contractual Clauses, these authorizations serve as prior written consent for subcontracting if required."
+  },
+  {
+    "clause_id": "4.1",
+    "heading": "Engagement of Subcontractors",
+    "summarised_text": "Controller acknowledges and agrees that Processor may (1) engage the Authorized Subcontractors listed in Exhibit C to this Addendum to access and Process Personal Data in connection with the Subscription Services and (2) from time to time engage additional third parties for the purpose of providing the Subscription Services, including without limitation the Processing of Personal Data."
+  },
+  {
+    "clause_id": "4.2",
+    "heading": "Notification and Objection to Subcontractors",
+    "summarised_text": "A list of Processor’s current Authorized Subcontractors is available at https://www.hatchbuck.com/lp/authorized-subcontractors/. At least ten days before engaging any new third party for Personal Data processing, Processor will update the list and notify Controller via email. Controller may object in writing within ten days of notice."
+  },
+  {
+    "clause_id": "4.2.1",
+    "heading": "Objection Resolution",
+    "summarised_text": "If Controller reasonably objects, Processor shall provide written commercially reasonable alternatives, including Subscription Services modification. If Processor cannot provide alternatives, or Controller rejects them, Processor may terminate this Addendum, with Controller remaining liable for owed fees under the Agreement."
+  },
+  {
+    "clause_id": "4.2.2",
+    "heading": "Deemed Authorization",
+    "summarised_text": "If Controller does not object to the engagement of a third party in accordance with Section 4.2 within ten (10) days of notice by Processor, that third party will be deemed an Authorized Subcontractor for the purposes of this Addendum."
+  },
+  {
+    "clause_id": "4.3",
+    "heading": "Subcontractor Confidentiality Agreements",
+    "summarised_text": "Processor shall ensure that all Authorized Subcontractors have executed confidentiality agreements that prevent them from disclosing or otherwise Processing any Personal Data both during and after their engagement by Processor."
+  },
+  {
+    "clause_id": "4.4",
+    "heading": "Subcontractor Data Protection Obligations",
+    "summarised_text": "Processor shall, by way of contract or other legal act under European Union or European Union member state law, ensure that every Authorized Subcontractor is subject to obligations regarding the Processing of Personal Data that are no less protective than those to which the Processor is subject under this Addendum."
+  },
+  {
+    "clause_id": "4.5",
+    "heading": "Processor's Liability for Subcontractors",
+    "summarised_text": "Processor shall be liable to Controller for the acts and omissions of Authorized Subcontractors to the same extent that Processor would itself be liable under this Addendum had it conducted such acts or omissions."
+  },
+  {
+    "clause_id": "4.6",
+    "heading": "Consent under Standard Contractual Clauses",
+    "summarised_text": "If Controller has entered into Standard Contractual Clauses as described in Section 6 (Transfers of Personal Data), the above authorizations will constitute Controller’s prior written consent to the subcontracting by Processor of the processing of Personal Data if such consent is required under the Standard Contractual Clauses."
+  },
+  {
+    "clause_id": "5.",
+    "heading": "Security of Personal Data",
+    "summarised_text": "Processor must implement appropriate technical and organizational security measures, considering the current state of technology, implementation costs, processing nature, scope, context, and purposes, as well as the risks to natural persons' rights and freedoms, to ensure a security level suitable for the risk of Processing Personal Data."
+  },
+  {
+    "clause_id": "5.1",
+    "heading": "Security Measures",
+    "summarised_text": "Processor shall maintain appropriate technical and organizational measures to ensure a level of security appropriate to the risk of Processing Personal Data, considering the state of the art, implementation costs, nature, scope, context, purposes of Processing, and likelihood/severity of risks to natural persons' rights and freedoms."
+  },
+  {
+    "clause_id": "6.",
+    "heading": "Transfers of Personal Data",
+    "summarised_text": "Any Personal Data transfers subject to this Addendum from EU member states, Iceland, Liechtenstein, Norway, Switzerland, or the UK to countries lacking adequate data protection will be conducted by Processor via the Standard Contractual Clauses in Exhibit B, to the extent such transfer falls under relevant laws and regulations."
+  },
+  {
+    "clause_id": "6.1",
+    "heading": "International Data Transfers",
+    "summarised_text": "Transfers of Personal Data from specified European countries to countries without adequate data protection, if subject to relevant laws, shall be undertaken by Processor through the Standard Contractual Clauses detailed in Exhibit B."
+  },
+  {
+    "clause_id": "7.",
+    "heading": "Rights of Data Subjects",
+    "summarised_text": "Processor must promptly notify Controller of any Data Subject Request (access, rectification, erasure, data portability, restriction/cessation of Processing, withdrawal of consent, objection to automated decision-making). If Processor receives such a request concerning Controller's data, it will direct the Data Subject to Controller, who is responsible for responding, potentially using Subscription Services functionality. At Controller's request, and considering the Processing nature, Processor will apply appropriate technical and organizational measures to assist Controller in responding to Data Subject Requests and demonstrating compliance, provided Controller cannot respond without Processor's help and Processor can comply with laws. Controller is responsible for costs of such assistance."
+  },
+  {
+    "clause_id": "7.1",
+    "heading": "Notification of Data Subject Requests",
+    "summarised_text": "Processor shall promptly notify Controller upon receiving a Data Subject Request (access, rectification, erasure, data portability, restriction/cessation of Processing, withdrawal of consent, objection to automated decision-making). Processor will advise the Data Subject to submit their request to Controller, who is responsible for responding, including using Subscription Services functionality if necessary."
+  },
+  {
+    "clause_id": "7.2",
+    "heading": "Assistance with Data Subject Requests",
+    "summarised_text": "At Controller's request, and considering the Processing nature, Processor shall assist Controller with Data Subject Requests and demonstrating compliance, provided Controller cannot respond without Processor's help and Processor can comply with laws. Controller is responsible for associated costs."
+  },
+  {
+    "clause_id": "8.",
+    "heading": "Actions and Access Requests",
+    "summarised_text": "Processor will provide reasonable cooperation and assistance to Controller for GDPR compliance, data protection impact assessments, and demonstrating compliance, where necessary and if Controller lacks relevant information. Controller will bear costs for such assistance. Processor will also provide reasonable cooperation for Controller's consultation with Supervisory Authorities, when necessary and required by GDPR, with Controller bearing the costs. Processor must maintain records demonstrating Addendum compliance for three years post-Agreement termination, which Controller can audit and copy with reasonable notice. Annually, Processor will either provide certifications/reports on data security standards or allow Controller to audit its data security infrastructure with reasonable notice and without unreasonable disruption, with Controller covering audit costs. In a Personal Data Breach, Processor will promptly inform Controller and take necessary remediation steps within its control. Processor will also provide reasonable cooperation to Controller for notifying Supervisory Authorities and affected Data Subjects under GDPR. These obligations do not apply if the breach results from Controller's actions/omissions, and Processor's reporting does not imply fault or liability."
+  },
+  {
+    "clause_id": "8.1",
+    "heading": "Assistance with GDPR Compliance and DPIA",
+    "summarised_text": "Processor shall provide Controller reasonable cooperation and assistance for GDPR compliance, conducting data protection impact assessments, and demonstrating compliance, if Controller lacks relevant information. Controller is responsible for associated costs."
+  },
+  {
+    "clause_id": "8.2",
+    "heading": "Cooperation with Supervisory Authority",
+    "summarised_text": "Processor shall provide Controller reasonable cooperation and assistance with respect to Controller’s cooperation and/or prior consultation with any Supervisory Authority, where necessary and where required by the GDPR. Controller shall be responsible to the extent legally permitted for any costs and expenses arising from any such assistance by Processor."
+  },
+  {
+    "clause_id": "8.3",
+    "heading": "Record Keeping and Audit Rights",
+    "summarised_text": "Processor shall maintain and retain records demonstrating Addendum compliance for three years post-Agreement termination. Controller has the right to review, audit, and copy these records at Processor's offices during business hours with reasonable notice."
+  },
+  {
+    "clause_id": "8.4",
+    "heading": "Security Audits and Certifications",
+    "summarised_text": "Upon Controller’s request, no more than once per calendar year, Processor shall either provide security certifications/reports or permit Controller to audit its data security infrastructure to demonstrate Addendum compliance. Controller must provide reasonable prior notice, and audits must not unreasonably disrupt Processor’s business. Controller is responsible for audit costs."
+  },
+  {
+    "clause_id": "8.5",
+    "heading": "Personal Data Breach Notification",
+    "summarised_text": "In the event of a Personal Data Breach, Processor shall, without undue delay, inform Controller and take necessary and reasonable remediation steps within Processor’s control."
+  },
+  {
+    "clause_id": "8.6",
+    "heading": "Assistance with Breach Notification",
+    "summarised_text": "In the event of a Personal Data Breach, Processor shall provide Controller with reasonable cooperation and assistance necessary for Controller to comply with its GDPR obligations for notifying the relevant Supervisory Authority and affected Data Subjects without undue delay."
+  },
+  {
+    "clause_id": "8.7",
+    "heading": "Exclusions and Disclaimers for Breach Obligations",
+    "summarised_text": "The obligations in Sections 8.5 and 8.6 do not apply if a Personal Data Breach results from Controller's actions or omissions. Processor's reporting or response to a breach does not constitute an acknowledgment of fault or liability."
+  },
+  {
+    "clause_id": "9.",
+    "heading": "Limitation of Liability",
+    "summarised_text": "The total aggregate liability of Controller and Processor (including their employees, directors, officers, affiliates, successors, and assigns) for claims arising from or related to this Addendum, regardless of the theory of liability, shall not exceed the limitation of liability specified in the Agreement."
+  },
+  {
+    "clause_id": "9.1",
+    "heading": "Limitation of Liability",
+    "summarised_text": "The total liability of both Controller and Processor (and their respective employees, directors, officers, affiliates, successors, and assigns) for claims arising out of or related to this Addendum, whether in contract, tort, or other theory of liability, shall not exceed the limitation of liability set forth in the Agreement."
+  },
+  {
+    "clause_id": "EXHIBIT A",
+    "heading": "Details of Processing",
+    "summarised_text": "This Exhibit outlines the details of processing: Nature and Purpose of Processing are as specified in the Agreement. Duration of Processing is for the Term of the Agreement. Categories of Data Subjects include Controller’s end-users and contacts. Type of Personal Data includes name, address, email, phone, system activity (webpage visits, email opens, link clicks), online form data, and aggregated statistics on interest. Custom fields may contain Controller-collected data, but should not store special categories of personal data (racial/ethnic origin, political opinions, religious beliefs, trade union activities, physical/mental health, sexual life, criminal offenses) as defined in GDPR."
+  },
+  {
+    "clause_id": "EXHIBIT B",
+    "heading": "Standard Contractual Clauses",
+    "summarised_text": "This Exhibit contains the Standard Contractual Clauses for personal data transfer to processors in third countries without adequate data protection, per Article 26(2) of Directive 95/46/EC. It identifies the data exporting organization (Controller) and the data importing organization (Systematic Revenue, LLC dba Hatchbuck), agreeing to the clauses to ensure privacy and fundamental rights for personal data transfer as specified in Appendix 1."
+  },
+  {
+    "clause_id": "Clause 1",
+    "heading": "Definitions",
+    "summarised_text": "This clause defines key terms for the Standard Contractual Clauses: (a) 'personal data', 'special categories of data', 'process/processing', 'controller', 'processor', 'data subject' and 'supervisory authority' are defined as per Directive 95/46/EC. (b) 'the data exporter' means Controller. (c) 'the data importer' means Processor. (d) 'the subprocessor' is any processor engaged by the data importer or its subprocessors, receiving personal data for processing on behalf of the data exporter, in accordance with instructions, clauses, and written subcontract. (e) 'the applicable data protection law' refers to legislation protecting fundamental rights and privacy concerning personal data processing, applicable to the data controller in the Member State where the data exporter is established. (f) 'technical and organizational security measures' are measures protecting personal data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access, especially for network transmission, and against all other unlawful processing."
+  },
+  {
+    "clause_id": "Clause 2",
+    "heading": "Details of the transfer",
+    "summarised_text": "The details of the transfer, including any special categories of personal data, are specified in Appendix 1, which is an integral part of the Clauses."
+  },
+  {
+    "clause_id": "Clause 3",
+    "heading": "Third-party beneficiary clause",
+    "summarised_text": "This clause establishes third-party beneficiary rights for the data subject. Data subjects can enforce specific clauses against the data exporter, data importer (if the data exporter ceases to exist or becomes insolvent), and the subprocessor (if both data exporter and importer cease to exist or become insolvent). Subprocessor's third-party liability is limited to its own processing. The parties permit data subjects to be represented by associations if permitted by national law."
+  },
+  {
+    "clause_id": "Clause 4",
+    "heading": "Obligations of the data exporter",
+    "summarised_text": "The data exporter agrees and warrants that: (a) personal data processing and transfer comply with applicable data protection law; (b) the data importer will be instructed to process data solely on the data exporter's behalf and in accordance with applicable law and these Clauses; (c) the data importer provides sufficient technical and organizational security measures as per Appendix 2; (d) security measures are appropriate to protect personal data, considering risks, state of the art, and implementation costs; (e) compliance with security measures will be ensured; (f) if special categories of data are transferred, the data subject will be informed of potential transfer to a non-adequately protected country; (g) any notifications from data importer/subprocessor under Clause 5(b) and 8(3) will be forwarded to the supervisory authority if the transfer continues or suspension is lifted; (h) a copy of the Clauses (excluding Appendix 2) and a security measures summary will be made available to data subjects upon request, and subprocessing contracts (with commercial info removed); (i) subprocessing will comply with Clause 11, ensuring equivalent protection; and (j) compliance with Clause 4(a) to (i) will be ensured."
+  },
+  {
+    "clause_id": "Clause 5",
+    "heading": "Obligations of the data importer",
+    "summarised_text": "The data importer agrees and warrants: (a) to process personal data only on behalf of the data exporter, in compliance with its instructions and the Clauses, and to promptly inform the data exporter if compliance is not possible, allowing the data exporter to suspend transfer or terminate the contract; (b) that it has no reason to believe applicable legislation prevents it from fulfilling instructions or obligations, and will promptly notify the data exporter of any legislative change likely to adversely affect warranties/obligations, allowing the data exporter to suspend transfer or terminate; (c) to have implemented Appendix 2 security measures before processing; (d) to promptly notify the data exporter of any legally binding disclosure request by law enforcement (unless prohibited), accidental/unauthorized access, and direct data subject requests (without responding unless authorized); (e) to promptly and properly handle all data exporter inquiries regarding processing and abide by supervisory authority advice; (f) to submit data processing facilities for audit by data exporter or an independent inspection body upon data exporter's request; (g) to make a copy of the Clauses or subprocessing contract (with commercial info removed, and Appendix 2 replaced by a security measures summary) available to data subjects upon request if they cannot obtain it from the data exporter; (h) to have previously informed the data exporter and obtained prior written consent for subprocessing; (i) that subprocessor services will comply with Clause 11; and (j) to promptly send a copy of any subprocessor agreement to the data exporter."
+  },
+  {
+    "clause_id": "Clause 6",
+    "heading": "Liability",
+    "summarised_text": "This clause defines liability for damages. 1. Data subjects suffering damage due to a breach of Clause 3 or Clause 11 by any party or subprocessor are entitled to compensation from the data exporter. 2. If a data subject cannot claim compensation from the data exporter (due to disappearance, cessation, or insolvency) for a breach by the data importer or subprocessor, the data importer agrees the data subject can claim against it as if it were the data exporter, unless a successor entity has assumed obligations. The data importer cannot rely on a subprocessor's breach to avoid its own liabilities. 3. If a data subject cannot claim from both data exporter and data importer (due to disappearance, cessation, or insolvency) for a subprocessor's breach, the subprocessor agrees the data subject can claim against it for its own processing operations under the Clauses, unless a successor entity has assumed obligations. Subprocessor's liability is limited to its own processing."
+  },
+  {
+    "clause_id": "Clause 7",
+    "heading": "Mediation and jurisdiction",
+    "summarised_text": "This clause outlines mediation and jurisdiction. 1. The data importer agrees to accept the data subject's decision to refer disputes regarding third-party beneficiary rights or compensation claims to mediation (by an independent person or supervisory authority) or to the courts in the Member State where the data exporter is established. 2. The parties agree that the data subject's choice does not prejudice their substantive or procedural rights to seek remedies under other national or international laws."
+  },
+  {
+    "clause_id": "Clause 8",
+    "heading": "Cooperation with supervisory authorities",
+    "summarised_text": "This clause details cooperation with supervisory authorities. 1. The data exporter agrees to provide a copy of this contract to the supervisory authority if requested or legally required. 2. The parties agree the supervisory authority has the right to audit the data importer and any subprocessor, with the same scope and conditions as an audit of the data exporter under applicable data protection law. 3. The data importer must promptly inform the data exporter if any applicable legislation prevents an audit of the data importer or subprocessor as per paragraph 2, entitling the data exporter to take measures foreseen in Clause 5(b)."
+  },
+  {
+    "clause_id": "Clause 9",
+    "heading": "Governing Law",
+    "summarised_text": "The Clauses shall be governed by the law of the Member State in which the data exporter is established."
+  },
+  {
+    "clause_id": "Clause 10",
+    "heading": "Variation of the contract",
+    "summarised_text": "The parties undertake not to vary or modify the Clauses. This does not preclude the parties from adding clauses on business related issues where required as long as they do not contradict the Clause."
+  },
+  {
+    "clause_id": "Clause 11",
+    "heading": "Subprocessing",
+    "summarised_text": "This clause governs subprocessing. 1. The data importer must not subcontract any processing operations without the data exporter's prior written consent. If subprocessing occurs with consent, it must be via a written agreement imposing the same obligations on the subprocessor as on the data importer. The data importer remains fully liable for the subprocessor's performance. 2. The written contract between data importer and subprocessor must include a third-party beneficiary clause (Clause 3) for data subjects unable to claim compensation from the data exporter or data importer due to their disappearance, cessation, or insolvency, unless a successor entity has assumed obligations. Subprocessor liability is limited to its own processing. 3. Data protection aspects of subprocessing contracts are governed by the law of the Member State where the data exporter is established. 4. The data exporter must maintain an annually updated list of subprocessing agreements, notified by the data importer (Clause 5(j)), which is available to the data exporter's data protection supervisory authority."
+  },
+  {
+    "clause_id": "Clause 12",
+    "heading": "Obligation after the termination of personal data processing services",
+    "summarised_text": "This clause outlines obligations upon termination of personal data processing services. 1. Upon termination, the data importer and subprocessor must, at the data exporter's choice, either return all transferred personal data and copies or destroy them and certify destruction. This is waived if legislation prevents return or destruction, in which case the data importer warrants confidentiality and cessation of active processing. 2. The data importer and subprocessor warrant that they will submit their data processing facilities for an audit of these measures upon request from the data exporter and/or supervisory authority."
+  },
+  {
+    "clause_id": "APPENDIX 1 TO THE STANDARD CONTRACTUAL CLAUSES",
+    "heading": "APPENDIX 1 TO THE STANDARD CONTRACTUAL CLAUSES",
+    "summarised_text": "This Appendix, an integral part of the Clauses, specifies details for the data transfer. The Data exporter's relevant activities are to be specified. The Data importer is Hatchbuck.com, a SaaS provider of Customer Relationship Management and Marketing Automation software. Categories of Data Subjects include Controller’s end-users, contacts, prospects, customers, business partners, vendors (natural persons), and employees/contact persons of these entities, as well as Controller’s employees, agents, advisors, freelancers, and authorized Users. Categories of data include first/last name, title, position, employer, contact information (company, email, phone, business address), ID data, professional life data, and personal life data. Special categories of data should not be transmitted by the data exporter. Processing operations' objective is the performance of Subscription Services as per the Agreement. The appendix includes signature blocks for both Data Exporter and Data Importer."
+  },
+  {
+    "clause_id": "APPENDIX 2 TO THE STANDARD CONTRACTUAL CLAUSES",
+    "heading": "APPENDIX 2 TO THE STANDARD CONTRACTUAL CLAUSES",
+    "summarised_text": "This Appendix details the technical and organizational security measures implemented by the data importer in accordance with Clauses 4(d) and 5(c). The data importer will maintain administrative, physical, and technical safeguards to protect the security, confidentiality, and integrity of Personal Data uploaded to the Subscription Services, as described in the Security, Privacy and Architecture Documentation available at https://hatchbuck.freshdesk.com/support/home or otherwise provided. The data importer commits not to materially decrease the overall security of the Subscription Services during a subscription term."
+  },
+  {
+    "clause_id": "EXHIBIT C",
+    "heading": "Authorized Subcontractors",
+    "summarised_text": "For the purposes of this agreement, the list of Processor’s current Authorized Subcontractors (the “List”) is available at: https://www.hatchbuck.com/lp/authorized-subcontractors/."
+  }
+]
