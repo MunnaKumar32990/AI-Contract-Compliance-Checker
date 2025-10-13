@@ -2,10 +2,25 @@ import streamlit as st
 import agreement_comparision
 import data_extraction
 import json
+import schedule
+import time
+import scrapping
+import threading
+
+
+def run_scheduler():
+    # schedule.every().day.at("00:00").do(scrapping.call_scrape_function)
+    schedule.every(10).seconds.do(scrapping.call_scrape_function)  # run every 10s for testing
+
+    while True:
+        schedule.run_pending()
+        time.sleep(5)
+
+
+threading.Thread(target=run_scheduler, daemon=True).start()        
 
 # ******** Phase 3 ******** #
 if __name__ == "__main__":
-
     # Mapping of agreement type to respective JSON file
     AGREEMENT_JSON_MAP = {
         "Data Processing Agreement": "json_files/dpa.json",
@@ -17,6 +32,7 @@ if __name__ == "__main__":
 
     # Streamlit UI Title
     st.title("📑 Contract Compliance Checker")
+
 
     # File Upload (PDF only)
     uploaded_file = st.file_uploader("Upload an agreement (PDF only)", type=["pdf"])
