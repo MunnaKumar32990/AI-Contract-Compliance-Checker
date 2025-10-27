@@ -78,3 +78,4 @@ if __name__ == "__main__":
     except Exception as e:
         st.error(f"An error occurred: {e}")
         notification.send_notification("Error Occured in Document Comparison", f"An error occurred: {e}")
+        
