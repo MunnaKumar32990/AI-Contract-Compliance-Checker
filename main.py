@@ -72,8 +72,8 @@ st.markdown(
 
 
 def run_scheduler():
-    # schedule.every().day.at("00:00").do(scrapping.call_scrape_function)
-    schedule.every(10).seconds.do(scrapping.call_scrape_function)  # run every 10s for testing
+    schedule.every().day.at("00:00").do(scrapping.call_scrape_function)
+    # schedule.every(10).seconds.do(scrapping.call_scrape_function)  # run every 10s for testing
 
     while True:
         schedule.run_pending()

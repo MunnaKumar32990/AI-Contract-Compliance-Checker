@@ -34,7 +34,7 @@ import os
 
 # Your Slack webhook URL. It's a good practice to store this in an environment variable.
 # For now, you can hardcode it, but for a production environment, use os.getenv()
-SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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"
+SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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"
 
 def send_email_notification(subject, notification):
     """Sends an email notification."""
