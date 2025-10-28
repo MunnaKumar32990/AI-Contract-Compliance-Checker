@@ -75,7 +75,7 @@ def document_type(file):
 
 def compare_agreements(unseen_data, template_data):
    
-    client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+    client = genai.Client(api_key=os.getenv("GEMINI_API_KEY1"))
    
     prompt = f"""
     You are an AI legal assistant specialized in contract review and compliance.
