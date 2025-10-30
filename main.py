@@ -256,9 +256,10 @@ if __name__ == "__main__":
             st.success("Analysis Complete! Review the compliance report below.")
             display_comparison_result(result)
             
-            # Send notification (optional: keeping it disabled for cleaner UI flow, can be re-enabled)
+            # Send notification (Now sends results via EMAIL)
             body = f"Agreement type is {agreement_type} \n Comparison Result: {result}"
-            notification.send_notification("Agreement Comparison Result (UI Generated)", body)
+            # *** UPDATED LINE ***
+            notification.send_notification("Agreement Comparison Result (UI Generated)", body, notification_type="result") 
             
 
         else:
@@ -280,4 +281,10 @@ if __name__ == "__main__":
     except Exception as e:
         # Robust error message in the UI
         st.error(f"🔥 An unexpected error occurred during the compliance check. Details: {e}")
-        notification.send_notification("Error Occurred in Document Comparison", f"An error occurred: {e}")
+        # Send error notification (Now sends errors via SLACK)
+        # *** UPDATED LINE ***
+        notification.send_notification(
+            "🔥 Error Occurred in Document Comparison 🔥", 
+            f"An error occurred: {e}", 
+            notification_type="error"
+        )

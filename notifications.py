@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 import requests
 import json
 import os
-from dotenv import load_dotenv  # <-- import dotenv
+from dotenv import load_dotenv
 
 # Load environment variables from .env file
 load_dotenv()
@@ -51,11 +51,19 @@ def send_slack_notification(message):
         print(f"❌ Failed to send Slack notification: {e}")
 
 
-def send_notification(subject, notification, send_to_email=True, send_to_slack=True):
-    """Sends a notification to one or both platforms."""
+def send_notification(subject, notification, notification_type="result"): # <--- ADDED notification_type
+    """
+    Sends a notification based on type:
+    - 'result' (default): Sends to email.
+    - 'error': Sends to Slack.
+    - Other (e.g., 'all'): Sends to both.
+    """
     full_message = f"Subject: {subject}\n\n{notification}"
 
-    if send_to_email:
+    if notification_type == "result":
         send_email_notification(subject, notification)
-    if send_to_slack:
+    elif notification_type == "error":
+        send_slack_notification(full_message)
+    else: # Fallback to sending to both, or for other types you define
+        send_email_notification(subject, notification)
         send_slack_notification(full_message)
