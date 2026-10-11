@@ -105,7 +105,7 @@ Email Result Notification
 | schedule and threading | Running the scheduled reference refresh task |
 | JSON | Storing reference clause data |
 
-The code also lists `numpy` and `groq` in `requirements.txt`; the current main workflow primarily uses the Google Gen AI SDK.
+The current `requirements.txt` does not yet include every package imported by the app. The extra installation command above adds `streamlit`, `schedule`, `pydantic`, and `requests`. The file also lists `numpy` and `groq`; the main workflow primarily uses the Google Gen AI SDK.
 
 ## Project structure
 
@@ -168,6 +168,7 @@ source .venv/bin/activate
 ```bash
 python -m pip install --upgrade pip
 pip install -r requirements.txt
+pip install streamlit schedule pydantic requests
 ```
 
 ### 4. Configure environment variables
